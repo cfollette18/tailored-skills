@@ -1,5 +1,7 @@
 # tailored-skills
 
+
+**Agent rules** (`.mdc`) live in the companion repo **[tailored-rules](https://github.com/cfollette18/tailored-rules)** — not in this repository.
 Curated agent skills for design engineering, ML/AI research, agent harnesses, and anti-slop quality — organized for [Hermes](https://github.com/NousResearch/hermes-agent) and Cursor-compatible skill loaders.
 
 ## Category map
