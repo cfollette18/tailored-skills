@@ -1,0 +1,31 @@
+---
+description: Pick a surface archetype before choosing colors or components.
+appliesTo: all-sessions
+---
+
+# Surface-first composition
+
+Most AI UI slop is **compositional, not cosmetic**. Models default to a
+centered hero plus three equal feature cards, then add color. Fix the
+layout archetype first.
+
+## Seven surfaces (pick exactly one primary)
+
+1. **Monitor** — user watches state change (dashboards, status). Density and glanceable hierarchy; no marketing hero.
+2. **Operate** — user takes action (consoles, queues, inboxes). Actions and selection state dominate.
+3. **Compare** — user weighs options (pricing, spec tables, search results). Aligned columns; one differentiator emphasized.
+4. **Configure** — user sets things up (settings, wizards, forms). Progressive disclosure; clear validation.
+5. **Decide / Learn** — user is convinced or taught (landing, docs). One idea per section; hero is allowed here only.
+6. **Explore** — user browses (catalogs, galleries, maps). Filters and result grids are the composition.
+7. **Command / Inspect** — keyboard-driven or single-object drill-down. Speed and focus over breadth.
+
+## Rules
+
+- State the surface in one line before designing.
+- Dashboards are **Monitor**, not **Decide** — no centered hero.
+- If two surfaces apply, name the **primary**; do not average them into mush.
+- Reject purple-gradient hero slop unless the brief is explicitly marketing.
+
+## Before tokens
+
+Commit to surface → information hierarchy → actions → then color, type, and radius.

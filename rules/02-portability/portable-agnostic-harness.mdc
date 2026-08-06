@@ -1,0 +1,54 @@
+---
+description: Skills and harness artifacts must be portable for any user.
+appliesTo: all-sessions
+alwaysApply: true
+---
+
+# Portable, agnostic harness
+
+This harness/profile is **shareable**. Every skill, rule, learning, fix,
+and plan written at profile level must work for someone who clones the
+repo — not only for one developer's laptop layout.
+
+## Skills
+
+1. **Project-agnostic by default.** Teach procedures (dataset design, fine-tuning
+   recipes, eval rubrics, literature review) without assuming a
+   specific repo name, hostname, or hardware nickname.
+2. **Examples use placeholders**, not private codenames:
+   - Good: "your project at `$PROJECT_ROOT`"
+   - Bad: "project at `/home/alice/my-private-app` on `edge-box.internal`"
+3. **Hardware class is OK; nicknames are not.** "8 GB unified memory class
+   device" is portable. A named host at a private IP is not.
+4. **Split portable vs project-local knowledge:**
+   | Portable (skill / profile rule) | Project-local (repo `.hermes/` or AGENTS.md) |
+   |----------------------------------|-----------------------------------------------|
+   | How to design an eval rubric     | This project's rubric JSON + frozen test SHA  |
+   | VRAM estimation for a recipe     | This run's exact checkpoint path              |
+   | Remote API quirks (generic)      | Which provider this project uses today        |
+5. **When saving a new skill**, ask: "Would this make sense if every path
+   and project name were replaced with `$PROJECT_ROOT`?" If not, generalize
+   or move the project-specific part to the project's `.hermes/learnings/`.
+
+## Rules, learnings, fixes
+
+- Same bar as skills: no usernames, home directories, or one-off cron IDs.
+- Learnings capture **patterns** ("this recipe fits a 7B model in ~5 GB on
+  Orin-class hardware"), not session state.
+- Fixes capture **failure modes** ("don't paste session keys into repo
+  files"), not one user's incident timestamps.
+
+## Naming
+
+- Prefer generic skill names: `qlora-pipeline`, `eval-rubric-design`
+  over private project codenames.
+- If a skill is tied to one external tool, name the **tool**
+  (`trackio`, `arxiv`), not a private deployment.
+
+## Review checklist (before adding to the harness)
+
+- [ ] No `/home/<user>/` paths
+- [ ] No real hostnames, IPs, or cron UUIDs
+- [ ] No API keys or token-shaped strings (except documented placeholders)
+- [ ] Env vars documented; values never inlined
+- [ ] Readable by someone who only has the harness + this profile — no oral history
