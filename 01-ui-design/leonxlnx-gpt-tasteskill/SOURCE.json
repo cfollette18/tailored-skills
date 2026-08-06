@@ -1,0 +1,17 @@
+{
+  "slug": "gpt-tasteskill",
+  "user": "Leonxlnx",
+  "repo": "taste-skill",
+  "rawUrl": "https://raw.githubusercontent.com/Leonxlnx/taste-skill/main/skills/gpt-tasteskill/SKILL.md",
+  "githubUrl": "https://github.com/Leonxlnx/taste-skill/blob/main/skills/gpt-tasteskill/SKILL.md",
+  "name": "gpt-taste",
+  "topics": [
+    "taste",
+    "systems",
+    "frontend"
+  ],
+  "description": "High-agency UX/UI skill with strict layout variance, typography, and GSAP motion engineering constraints.",
+  "pathSlug": "leonxlnx/gpt-tasteskill",
+  "sourceKey": "leonxlnx",
+  "sourceLabel": "Leonxlnx"
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "linear-discipline",
+  "user": "tjcages",
+  "repo": "linear",
+  "rawUrl": "https://raw.githubusercontent.com/tjcages/linear/main/skills/linear-discipline/SKILL.md",
+  "githubUrl": "https://github.com/tjcages/linear/blob/main/skills/linear-discipline/SKILL.md",
+  "name": "linear-discipline",
+  "topics": [
+    "tooling",
+    "code-quality"
+  ],
+  "description": "Keep Linear tracking honest during development with search-before-create, lifecycle updates, and close-the-loop discipline.",
+  "pathSlug": "tjcages/linear-discipline",
+  "sourceKey": "tjcages",
+  "sourceLabel": "tjcages"
+}

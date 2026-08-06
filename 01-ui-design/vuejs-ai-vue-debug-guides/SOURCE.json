@@ -1,0 +1,17 @@
+{
+  "slug": "vue-debug-guides",
+  "user": "vuejs-ai",
+  "repo": "skills",
+  "rawUrl": "https://raw.githubusercontent.com/vuejs-ai/skills/main/skills/vue-debug-guides/SKILL.md",
+  "githubUrl": "https://github.com/vuejs-ai/skills/blob/main/skills/vue-debug-guides/SKILL.md",
+  "name": "vue-debug-guides",
+  "topics": [
+    "vue",
+    "testing",
+    "tooling"
+  ],
+  "description": "Practical debugging workflows for diagnosing and fixing Vue reactivity, rendering, and state issues.",
+  "pathSlug": "vuejs-ai/vue-debug-guides",
+  "sourceKey": "vuejs-ai",
+  "sourceLabel": "vuejs-ai"
+}

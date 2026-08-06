@@ -1,0 +1,17 @@
+{
+  "slug": "morphing-icons",
+  "user": "raphaelsalaja",
+  "repo": "skill",
+  "rawUrl": "https://raw.githubusercontent.com/raphaelsalaja/skill/main/skills/morphing-icons/SKILL.md",
+  "githubUrl": "https://github.com/raphaelsalaja/skill/blob/main/skills/morphing-icons/SKILL.md",
+  "name": "morphing-icons",
+  "topics": [
+    "motion",
+    "visual",
+    "frontend"
+  ],
+  "description": "Build icon components that morph between SVG shapes with smooth, line-based transformation.",
+  "pathSlug": "raphaelsalaja/morphing-icons",
+  "sourceKey": "raphaelsalaja",
+  "sourceLabel": "raphaelsalaja"
+}

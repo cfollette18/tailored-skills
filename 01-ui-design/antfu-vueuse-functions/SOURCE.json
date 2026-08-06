@@ -1,0 +1,17 @@
+{
+  "slug": "vueuse-functions",
+  "user": "antfu",
+  "repo": "skills",
+  "rawUrl": "https://raw.githubusercontent.com/antfu/skills/main/skills/vueuse-functions/SKILL.md",
+  "githubUrl": "https://github.com/antfu/skills/blob/main/skills/vueuse-functions/SKILL.md",
+  "name": "vueuse-functions",
+  "topics": [
+    "vue",
+    "tooling",
+    "frontend"
+  ],
+  "description": "Apply VueUse composables to build concise, maintainable Vue and Nuxt features.",
+  "pathSlug": "antfu/vueuse-functions",
+  "sourceKey": "antfu",
+  "sourceLabel": "antfu"
+}

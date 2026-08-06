@@ -1,0 +1,17 @@
+{
+  "slug": "brutalist-skill",
+  "user": "Leonxlnx",
+  "repo": "taste-skill",
+  "rawUrl": "https://raw.githubusercontent.com/Leonxlnx/taste-skill/main/skills/brutalist-skill/SKILL.md",
+  "githubUrl": "https://github.com/Leonxlnx/taste-skill/blob/main/skills/brutalist-skill/SKILL.md",
+  "name": "industrial-brutalist-ui",
+  "topics": [
+    "taste",
+    "visual",
+    "interaction"
+  ],
+  "description": "Raw, mechanical interface direction mixing Swiss print structure with terminal-inspired brutalist aesthetics.",
+  "pathSlug": "leonxlnx/brutalist-skill",
+  "sourceKey": "leonxlnx",
+  "sourceLabel": "Leonxlnx"
+}

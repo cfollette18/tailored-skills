@@ -1,0 +1,17 @@
+{
+  "slug": "swiftui-ui-patterns",
+  "user": "dimillian",
+  "repo": "skills",
+  "rawUrl": "https://raw.githubusercontent.com/dimillian/skills/main/swiftui-ui-patterns/SKILL.md",
+  "githubUrl": "https://github.com/dimillian/skills/blob/main/swiftui-ui-patterns/SKILL.md",
+  "name": "swiftui-ui-patterns",
+  "topics": [
+    "swiftui",
+    "interaction",
+    "systems"
+  ],
+  "description": "Best practices and example-driven guidance for building SwiftUI views and components. Includes tab architecture and screen composition.",
+  "pathSlug": "dimillian/swiftui-ui-patterns",
+  "sourceKey": "dimillian",
+  "sourceLabel": "dimillian"
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "improve",
+  "user": "shadcn",
+  "repo": "improve",
+  "rawUrl": "https://raw.githubusercontent.com/shadcn/improve/main/skills/improve/SKILL.md",
+  "githubUrl": "https://github.com/shadcn/improve/blob/main/skills/improve/SKILL.md",
+  "name": "improve",
+  "topics": [
+    "code-quality",
+    "architecture",
+    "testing"
+  ],
+  "description": "Survey any codebase as a senior advisor and produce prioritized, self-contained implementation plans for OTHER models/agents to execute. Strictly read-only on source code \u2014 never implements, fixes, or refactors anything itself. Use when asked to audit a codebase, find improvement opportunities (bugs, security, performance, test coverage, tech debt, migrations, DX), suggest features or take the project next, or generate handoff plans for another agent to implement.",
+  "pathSlug": "shadcn/improve",
+  "sourceKey": "shadcn",
+  "sourceLabel": "shadcn"
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "pick-ui-library",
+  "user": "emilkowalski",
+  "repo": "skills",
+  "rawUrl": "https://raw.githubusercontent.com/emilkowalski/skills/main/skills/pick-ui-library/SKILL.md",
+  "githubUrl": "https://github.com/emilkowalski/skills/blob/main/skills/pick-ui-library/SKILL.md",
+  "name": "pick-ui-library",
+  "topics": [
+    "tooling",
+    "frontend",
+    "architecture"
+  ],
+  "description": "Choose an opinionated, trusted library for common frontend tasks including components, motion, charts, interaction, state, and styling.",
+  "pathSlug": "emilkowalski/pick-ui-library",
+  "sourceKey": "emilkowalski",
+  "sourceLabel": "emilkowalski"
+}

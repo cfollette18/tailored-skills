@@ -1,0 +1,17 @@
+{
+  "slug": "web-design-guidelines",
+  "user": "vercel-labs",
+  "repo": "agent-skills",
+  "rawUrl": "https://raw.githubusercontent.com/vercel-labs/agent-skills/main/skills/web-design-guidelines/SKILL.md",
+  "githubUrl": "https://github.com/vercel-labs/agent-skills/blob/main/skills/web-design-guidelines/SKILL.md",
+  "name": "web-design-guidelines",
+  "topics": [
+    "visual",
+    "accessibility",
+    "frontend"
+  ],
+  "description": "Review UI code for Web Interface Guidelines compliance. Audit design, accessibility, and UX against Vercel's best practices.",
+  "pathSlug": "vercel-labs/web-design-guidelines",
+  "sourceKey": "vercel-labs",
+  "sourceLabel": "vercel-labs"
+}

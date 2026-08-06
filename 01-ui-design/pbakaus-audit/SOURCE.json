@@ -1,0 +1,17 @@
+{
+  "slug": "audit",
+  "user": "pbakaus",
+  "repo": "impeccable",
+  "rawUrl": "https://raw.githubusercontent.com/pbakaus/impeccable/main/skill/reference/audit.md",
+  "githubUrl": "https://github.com/pbakaus/impeccable/blob/main/skill/reference/audit.md",
+  "name": "audit",
+  "topics": [
+    "testing",
+    "accessibility",
+    "performance"
+  ],
+  "description": "Run technical UI quality audits across accessibility, performance, theming, responsive behavior, and anti-patterns.",
+  "pathSlug": "pbakaus/audit",
+  "sourceKey": "pbakaus",
+  "sourceLabel": "pbakaus"
+}

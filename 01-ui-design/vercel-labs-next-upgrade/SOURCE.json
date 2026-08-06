@@ -1,0 +1,17 @@
+{
+  "slug": "next-upgrade",
+  "user": "vercel-labs",
+  "repo": "next-skills",
+  "rawUrl": "https://raw.githubusercontent.com/vercel-labs/next-skills/main/skills/next-upgrade/SKILL.md",
+  "githubUrl": "https://github.com/vercel-labs/next-skills/blob/main/skills/next-upgrade/SKILL.md",
+  "name": "next-upgrade",
+  "topics": [
+    "nextjs",
+    "tooling",
+    "frontend"
+  ],
+  "description": "Upgrade Next.js to the latest version using official migration guides and codemods.",
+  "pathSlug": "vercel-labs/next-upgrade",
+  "sourceKey": "vercel-labs",
+  "sourceLabel": "vercel-labs"
+}

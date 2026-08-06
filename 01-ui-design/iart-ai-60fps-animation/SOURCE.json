@@ -1,0 +1,17 @@
+{
+  "slug": "60fps-animation",
+  "user": "iart-ai",
+  "repo": "web-animation-skills",
+  "rawUrl": "https://raw.githubusercontent.com/iart-ai/web-animation-skills/main/skills/60fps-animation/SKILL.md",
+  "githubUrl": "https://github.com/iart-ai/web-animation-skills/blob/main/skills/60fps-animation/SKILL.md",
+  "name": "60fps-animation",
+  "topics": [
+    "motion",
+    "performance",
+    "frontend"
+  ],
+  "description": "Web animation performance guidance for avoiding layout thrashing and reaching smooth 60/120fps motion with compositor-friendly techniques.",
+  "pathSlug": "iart-ai/60fps-animation",
+  "sourceKey": "iart-ai",
+  "sourceLabel": "iart-ai"
+}

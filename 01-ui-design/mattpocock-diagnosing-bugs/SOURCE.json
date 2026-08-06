@@ -1,0 +1,17 @@
+{
+  "slug": "diagnosing-bugs",
+  "user": "mattpocock",
+  "repo": "skills",
+  "rawUrl": "https://raw.githubusercontent.com/mattpocock/skills/main/skills/engineering/diagnosing-bugs/SKILL.md",
+  "githubUrl": "https://github.com/mattpocock/skills/blob/main/skills/engineering/diagnosing-bugs/SKILL.md",
+  "name": "diagnosing-bugs",
+  "topics": [
+    "debugging",
+    "testing",
+    "frontend"
+  ],
+  "description": "Systematic bug diagnosis through reproduce, minimize, hypothesize, instrument, and fix.",
+  "pathSlug": "mattpocock/diagnosing-bugs",
+  "sourceKey": "mattpocock",
+  "sourceLabel": "mattpocock"
+}

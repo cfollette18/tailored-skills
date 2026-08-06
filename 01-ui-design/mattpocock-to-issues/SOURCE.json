@@ -1,0 +1,17 @@
+{
+  "slug": "to-issues",
+  "user": "mattpocock",
+  "repo": "skills",
+  "rawUrl": "https://raw.githubusercontent.com/mattpocock/skills/main/skills/engineering/to-issues/SKILL.md",
+  "githubUrl": "https://github.com/mattpocock/skills/blob/main/skills/engineering/to-issues/SKILL.md",
+  "name": "to-issues",
+  "topics": [
+    "architecture",
+    "tooling",
+    "testing"
+  ],
+  "description": "Breaks a plan or PRD into independently actionable issues.",
+  "pathSlug": "mattpocock/to-issues",
+  "sourceKey": "mattpocock",
+  "sourceLabel": "mattpocock"
+}

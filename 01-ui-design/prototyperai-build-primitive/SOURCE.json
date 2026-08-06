@@ -1,0 +1,19 @@
+{
+  "slug": "build-primitive",
+  "user": "PrototyperAI",
+  "repo": "prototyper-ui",
+  "rawUrl": "https://raw.githubusercontent.com/PrototyperAI/prototyper-ui/main/apps/docs/skill/build-primitive/SKILL.md",
+  "githubUrl": "https://github.com/PrototyperAI/prototyper-ui/blob/main/apps/docs/skill/build-primitive/SKILL.md",
+  "name": "build-primitive",
+  "topics": [
+    "accessibility",
+    "interaction",
+    "systems",
+    "testing",
+    "frontend"
+  ],
+  "description": "Build foundational UI primitives from scratch with strong ARIA, keyboard, focus, and state handling.",
+  "pathSlug": "prototyperai/build-primitive",
+  "sourceKey": "prototyperai",
+  "sourceLabel": "PrototyperAI"
+}

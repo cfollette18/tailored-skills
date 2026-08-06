@@ -1,0 +1,17 @@
+{
+  "slug": "full-output-enforcement",
+  "user": "MengTo",
+  "repo": "Skills",
+  "rawUrl": "https://raw.githubusercontent.com/MengTo/Skills/main/agent-skills/ui/full-output-enforcement/SKILL.md",
+  "githubUrl": "https://github.com/MengTo/Skills/blob/main/agent-skills/ui/full-output-enforcement/SKILL.md",
+  "name": "full-output-enforcement",
+  "topics": [
+    "systems",
+    "tooling",
+    "frontend"
+  ],
+  "description": "Use when you need the agent to deliver the complete requested output instead of a partial or truncated result.",
+  "pathSlug": "mengto/full-output-enforcement",
+  "sourceKey": "mengto",
+  "sourceLabel": "MengTo"
+}

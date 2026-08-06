@@ -1,0 +1,17 @@
+{
+  "slug": "prototype",
+  "user": "mattpocock",
+  "repo": "skills",
+  "rawUrl": "https://raw.githubusercontent.com/mattpocock/skills/main/skills/engineering/prototype/SKILL.md",
+  "githubUrl": "https://github.com/mattpocock/skills/blob/main/skills/engineering/prototype/SKILL.md",
+  "name": "prototype",
+  "topics": [
+    "frontend",
+    "interaction",
+    "systems"
+  ],
+  "description": "Builds throwaway prototypes to answer design or logic questions quickly.",
+  "pathSlug": "mattpocock/prototype",
+  "sourceKey": "mattpocock",
+  "sourceLabel": "mattpocock"
+}

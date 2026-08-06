@@ -1,0 +1,17 @@
+{
+  "slug": "frontend-slides",
+  "user": "zarazhangrui",
+  "repo": "frontend-slides",
+  "rawUrl": "https://raw.githubusercontent.com/zarazhangrui/frontend-slides/main/SKILL.md",
+  "githubUrl": "https://github.com/zarazhangrui/frontend-slides/blob/main/SKILL.md",
+  "name": "frontend-slides",
+  "topics": [
+    "video",
+    "visual",
+    "frontend"
+  ],
+  "description": "Create animation-rich HTML presentations from scratch or convert PPT/PPTX files into polished web slides.",
+  "pathSlug": "zarazhangrui/frontend-slides",
+  "sourceKey": "zarazhangrui",
+  "sourceLabel": "zarazhangrui"
+}

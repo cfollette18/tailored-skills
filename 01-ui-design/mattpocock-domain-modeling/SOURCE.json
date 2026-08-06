@@ -1,0 +1,17 @@
+{
+  "slug": "domain-modeling",
+  "user": "mattpocock",
+  "repo": "skills",
+  "rawUrl": "https://raw.githubusercontent.com/mattpocock/skills/main/skills/engineering/domain-modeling/SKILL.md",
+  "githubUrl": "https://github.com/mattpocock/skills/blob/main/skills/engineering/domain-modeling/SKILL.md",
+  "name": "domain-modeling",
+  "topics": [
+    "architecture",
+    "systems",
+    "frontend"
+  ],
+  "description": "Builds and sharpens project domain models and terminology.",
+  "pathSlug": "mattpocock/domain-modeling",
+  "sourceKey": "mattpocock",
+  "sourceLabel": "mattpocock"
+}

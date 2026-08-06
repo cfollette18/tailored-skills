@@ -1,0 +1,17 @@
+{
+  "slug": "threejs",
+  "user": "MengTo",
+  "repo": "Skills",
+  "rawUrl": "https://raw.githubusercontent.com/MengTo/Skills/main/agent-skills/web-design/threejs/SKILL.md",
+  "githubUrl": "https://github.com/MengTo/Skills/blob/main/agent-skills/web-design/threejs/SKILL.md",
+  "name": "threejs",
+  "topics": [
+    "threejs",
+    "motion",
+    "frontend"
+  ],
+  "description": "Use when building 3D scenes, interactions, or WebGL-backed interface moments in Three.js.",
+  "pathSlug": "mengto/threejs",
+  "sourceKey": "mengto",
+  "sourceLabel": "MengTo"
+}

@@ -1,0 +1,18 @@
+{
+  "slug": "engineering",
+  "user": "mattpocock",
+  "repo": "skills",
+  "rawUrl": "https://raw.githubusercontent.com/mattpocock/skills/main/skills/engineering/README.md",
+  "githubUrl": "https://github.com/mattpocock/skills/blob/main/skills/engineering/README.md",
+  "name": "engineering",
+  "topics": [
+    "architecture",
+    "testing",
+    "tooling",
+    "debugging"
+  ],
+  "description": "Routing bundle for code work covering planning, debugging, TDD, architecture, and execution flows.",
+  "pathSlug": "mattpocock/engineering",
+  "sourceKey": "mattpocock",
+  "sourceLabel": "mattpocock"
+}

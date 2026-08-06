@@ -1,0 +1,17 @@
+{
+  "slug": "budge",
+  "user": "millionco",
+  "repo": "skills",
+  "rawUrl": "https://raw.githubusercontent.com/millionco/skills/main/skills/budge/SKILL.md",
+  "githubUrl": "https://github.com/millionco/skills/blob/main/skills/budge/SKILL.md",
+  "name": "budge",
+  "topics": [
+    "visual",
+    "tooling",
+    "frontend"
+  ],
+  "description": "Use when making single-property CSS or Tailwind visual changes in Next.js App Router projects. Presents a floating control widget for live tuning before persisting.",
+  "pathSlug": "millionco/budge",
+  "sourceKey": "millionco",
+  "sourceLabel": "millionco"
+}

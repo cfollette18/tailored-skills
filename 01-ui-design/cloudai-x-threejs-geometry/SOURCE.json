@@ -1,0 +1,17 @@
+{
+  "slug": "threejs-geometry",
+  "user": "cloudai-x",
+  "repo": "threejs-skills",
+  "rawUrl": "https://raw.githubusercontent.com/CloudAI-X/threejs-skills/main/skills/threejs-geometry/SKILL.md",
+  "githubUrl": "https://github.com/CloudAI-X/threejs-skills/blob/main/skills/threejs-geometry/SKILL.md",
+  "name": "threejs-geometry",
+  "topics": [
+    "threejs",
+    "performance",
+    "frontend"
+  ],
+  "description": "Three.js geometry patterns for built-in shapes, BufferGeometry, custom meshes, and instancing.",
+  "pathSlug": "cloudai-x/threejs-geometry",
+  "sourceKey": "cloudai-x",
+  "sourceLabel": "cloudai-x"
+}

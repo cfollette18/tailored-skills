@@ -1,0 +1,17 @@
+{
+  "slug": "create-adaptable-composable",
+  "user": "vuejs-ai",
+  "repo": "skills",
+  "rawUrl": "https://raw.githubusercontent.com/vuejs-ai/skills/main/skills/create-adaptable-composable/SKILL.md",
+  "githubUrl": "https://github.com/vuejs-ai/skills/blob/main/skills/create-adaptable-composable/SKILL.md",
+  "name": "create-adaptable-composable",
+  "topics": [
+    "vue",
+    "frontend",
+    "tooling"
+  ],
+  "description": "Create library-grade Vue composables that support plain values, refs, and getters with predictable reactivity.",
+  "pathSlug": "vuejs-ai/create-adaptable-composable",
+  "sourceKey": "vuejs-ai",
+  "sourceLabel": "vuejs-ai"
+}

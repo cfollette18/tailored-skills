@@ -1,0 +1,17 @@
+{
+  "slug": "threejs-animation",
+  "user": "cloudai-x",
+  "repo": "threejs-skills",
+  "rawUrl": "https://raw.githubusercontent.com/CloudAI-X/threejs-skills/main/skills/threejs-animation/SKILL.md",
+  "githubUrl": "https://github.com/CloudAI-X/threejs-skills/blob/main/skills/threejs-animation/SKILL.md",
+  "name": "threejs-animation",
+  "topics": [
+    "threejs",
+    "motion",
+    "frontend"
+  ],
+  "description": "Three.js animation guidance for keyframes, skeletal animation, morph targets, and animation blending.",
+  "pathSlug": "cloudai-x/threejs-animation",
+  "sourceKey": "cloudai-x",
+  "sourceLabel": "cloudai-x"
+}

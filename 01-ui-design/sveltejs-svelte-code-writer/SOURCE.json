@@ -1,0 +1,17 @@
+{
+  "slug": "svelte-code-writer",
+  "user": "sveltejs",
+  "repo": "ai-tools",
+  "rawUrl": "https://raw.githubusercontent.com/sveltejs/ai-tools/main/plugins/claude/svelte/skills/svelte-code-writer/SKILL.md",
+  "githubUrl": "https://github.com/sveltejs/ai-tools/blob/main/plugins/claude/svelte/skills/svelte-code-writer/SKILL.md",
+  "name": "svelte-code-writer",
+  "topics": [
+    "frameworks",
+    "frontend",
+    "tooling"
+  ],
+  "description": "Official Svelte code-writing skill focused on modern Svelte patterns, component composition, and production-ready implementations.",
+  "pathSlug": "sveltejs/svelte-code-writer",
+  "sourceKey": "sveltejs",
+  "sourceLabel": "sveltejs"
+}

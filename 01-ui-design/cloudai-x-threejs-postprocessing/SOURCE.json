@@ -1,0 +1,17 @@
+{
+  "slug": "threejs-postprocessing",
+  "user": "cloudai-x",
+  "repo": "threejs-skills",
+  "rawUrl": "https://raw.githubusercontent.com/CloudAI-X/threejs-skills/main/skills/threejs-postprocessing/SKILL.md",
+  "githubUrl": "https://github.com/CloudAI-X/threejs-skills/blob/main/skills/threejs-postprocessing/SKILL.md",
+  "name": "threejs-postprocessing",
+  "topics": [
+    "threejs",
+    "visual",
+    "performance"
+  ],
+  "description": "Three.js post-processing techniques with EffectComposer, bloom, depth of field, and screen-space effects.",
+  "pathSlug": "cloudai-x/threejs-postprocessing",
+  "sourceKey": "cloudai-x",
+  "sourceLabel": "cloudai-x"
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "effect",
+  "user": "kitlangton",
+  "repo": "skills",
+  "rawUrl": "https://raw.githubusercontent.com/kitlangton/skills/main/skills/effect/SKILL.md",
+  "githubUrl": "https://github.com/kitlangton/skills/blob/main/skills/effect/SKILL.md",
+  "name": "effect",
+  "topics": [
+    "architecture",
+    "tooling",
+    "testing"
+  ],
+  "description": "Opinionated guidance for building production TypeScript applications with Effect v4, including workflows, services, layers, schemas, configuration, scheduling, caching, streams, HTTP clients, and tests.",
+  "pathSlug": "kitlangton/effect",
+  "sourceKey": "kitlangton",
+  "sourceLabel": "kitlangton"
+}

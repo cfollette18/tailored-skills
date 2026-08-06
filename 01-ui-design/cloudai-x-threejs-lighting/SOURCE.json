@@ -1,0 +1,17 @@
+{
+  "slug": "threejs-lighting",
+  "user": "cloudai-x",
+  "repo": "threejs-skills",
+  "rawUrl": "https://raw.githubusercontent.com/CloudAI-X/threejs-skills/main/skills/threejs-lighting/SKILL.md",
+  "githubUrl": "https://github.com/CloudAI-X/threejs-skills/blob/main/skills/threejs-lighting/SKILL.md",
+  "name": "threejs-lighting",
+  "topics": [
+    "threejs",
+    "visual",
+    "frontend"
+  ],
+  "description": "Three.js lighting guidance for light types, shadows, environment lighting, and performance tuning.",
+  "pathSlug": "cloudai-x/threejs-lighting",
+  "sourceKey": "cloudai-x",
+  "sourceLabel": "cloudai-x"
+}

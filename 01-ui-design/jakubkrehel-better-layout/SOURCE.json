@@ -1,0 +1,18 @@
+{
+  "slug": "better-layout",
+  "user": "jakubkrehel",
+  "repo": "skills",
+  "rawUrl": "https://raw.githubusercontent.com/jakubkrehel/skills/main/skills/better-layout/SKILL.md",
+  "githubUrl": "https://github.com/jakubkrehel/skills/blob/main/skills/better-layout/SKILL.md",
+  "name": "better-layout",
+  "topics": [
+    "systems",
+    "visual",
+    "frontend",
+    "architecture"
+  ],
+  "description": "Improve interface structure through grouping, alignment, reading order, progressive disclosure, and adaptive responsive layouts.",
+  "pathSlug": "jakubkrehel/better-layout",
+  "sourceKey": "jakubkrehel",
+  "sourceLabel": "jakubkrehel"
+}

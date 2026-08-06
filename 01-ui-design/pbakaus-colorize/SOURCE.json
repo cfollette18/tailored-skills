@@ -1,0 +1,17 @@
+{
+  "slug": "colorize",
+  "user": "pbakaus",
+  "repo": "impeccable",
+  "rawUrl": "https://raw.githubusercontent.com/pbakaus/impeccable/main/skill/reference/colorize.md",
+  "githubUrl": "https://github.com/pbakaus/impeccable/blob/main/skill/reference/colorize.md",
+  "name": "colorize",
+  "topics": [
+    "color",
+    "visual",
+    "systems"
+  ],
+  "description": "Introduce strategic color systems to interfaces that feel dull, monochrome, or visually flat.",
+  "pathSlug": "pbakaus/colorize",
+  "sourceKey": "pbakaus",
+  "sourceLabel": "pbakaus"
+}

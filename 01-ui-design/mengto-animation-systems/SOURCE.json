@@ -1,0 +1,17 @@
+{
+  "slug": "animation-systems",
+  "user": "MengTo",
+  "repo": "Skills",
+  "rawUrl": "https://raw.githubusercontent.com/MengTo/Skills/main/agent-skills/web-design/animation-systems/SKILL.md",
+  "githubUrl": "https://github.com/MengTo/Skills/blob/main/agent-skills/web-design/animation-systems/SKILL.md",
+  "name": "animation-systems",
+  "topics": [
+    "motion",
+    "systems",
+    "frontend"
+  ],
+  "description": "Use when building a coherent animation system instead of one-off motion tweaks.",
+  "pathSlug": "mengto/animation-systems",
+  "sourceKey": "mengto",
+  "sourceLabel": "MengTo"
+}

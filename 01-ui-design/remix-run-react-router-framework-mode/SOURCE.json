@@ -1,0 +1,17 @@
+{
+  "slug": "react-router-framework-mode",
+  "user": "remix-run",
+  "repo": "agent-skills",
+  "rawUrl": "https://raw.githubusercontent.com/remix-run/agent-skills/main/skills/react-router-framework-mode/SKILL.md",
+  "githubUrl": "https://github.com/remix-run/agent-skills/blob/main/skills/react-router-framework-mode/SKILL.md",
+  "name": "react-router-framework-mode",
+  "topics": [
+    "frontend",
+    "architecture",
+    "interaction"
+  ],
+  "description": "React Router framework-mode patterns for loaders, actions, middleware, route modules, and full-stack rendering flows.",
+  "pathSlug": "remix-run/react-router-framework-mode",
+  "sourceKey": "remix-run",
+  "sourceLabel": "remix-run"
+}

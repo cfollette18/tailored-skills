@@ -1,0 +1,17 @@
+{
+  "slug": "ui-skills-root",
+  "user": "ibelick",
+  "repo": "ui-skills",
+  "rawUrl": "https://raw.githubusercontent.com/ibelick/ui-skills/main/skills/ui-skills-root/SKILL.md",
+  "githubUrl": "https://github.com/ibelick/ui-skills/blob/main/skills/ui-skills-root/SKILL.md",
+  "name": "ui-skills-root",
+  "topics": [
+    "systems",
+    "tooling",
+    "architecture"
+  ],
+  "description": "Use when the user needs UI help and you must route by topic, stack, and intent to the smallest useful set of UI skills.",
+  "pathSlug": "ibelick/ui-skills-root",
+  "sourceKey": "ibelick",
+  "sourceLabel": "ibelick"
+}

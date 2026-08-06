@@ -1,0 +1,17 @@
+{
+  "slug": "vue-best-practices",
+  "user": "antfu",
+  "repo": "skills",
+  "rawUrl": "https://raw.githubusercontent.com/antfu/skills/main/skills/vue-best-practices/SKILL.md",
+  "githubUrl": "https://github.com/antfu/skills/blob/main/skills/vue-best-practices/SKILL.md",
+  "name": "vue-best-practices",
+  "topics": [
+    "vue",
+    "frontend",
+    "performance"
+  ],
+  "description": "Vue.js best practices emphasizing Composition API with script setup and TypeScript.",
+  "pathSlug": "antfu/vue-best-practices",
+  "sourceKey": "antfu",
+  "sourceLabel": "antfu"
+}

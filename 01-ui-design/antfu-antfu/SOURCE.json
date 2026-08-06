@@ -1,0 +1,17 @@
+{
+  "slug": "antfu",
+  "user": "antfu",
+  "repo": "skills",
+  "rawUrl": "https://raw.githubusercontent.com/antfu/skills/main/skills/antfu/SKILL.md",
+  "githubUrl": "https://github.com/antfu/skills/blob/main/skills/antfu/SKILL.md",
+  "name": "antfu",
+  "topics": [
+    "tooling",
+    "frontend",
+    "performance"
+  ],
+  "description": "Anthony Fu's opinionated tooling and conventions for JavaScript/TypeScript projects.",
+  "pathSlug": "antfu/antfu",
+  "sourceKey": "antfu",
+  "sourceLabel": "antfu"
+}

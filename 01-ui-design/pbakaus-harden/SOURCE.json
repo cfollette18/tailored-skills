@@ -1,0 +1,17 @@
+{
+  "slug": "harden",
+  "user": "pbakaus",
+  "repo": "impeccable",
+  "rawUrl": "https://raw.githubusercontent.com/pbakaus/impeccable/main/skill/reference/harden.md",
+  "githubUrl": "https://github.com/pbakaus/impeccable/blob/main/skill/reference/harden.md",
+  "name": "harden",
+  "topics": [
+    "testing",
+    "systems",
+    "frontend"
+  ],
+  "description": "Make interfaces production-ready with robust empty states, edge cases, errors, onboarding, and i18n resilience.",
+  "pathSlug": "pbakaus/harden",
+  "sourceKey": "pbakaus",
+  "sourceLabel": "pbakaus"
+}

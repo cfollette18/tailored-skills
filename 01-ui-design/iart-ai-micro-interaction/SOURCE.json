@@ -1,0 +1,17 @@
+{
+  "slug": "micro-interaction",
+  "user": "iart-ai",
+  "repo": "web-animation-skills",
+  "rawUrl": "https://raw.githubusercontent.com/iart-ai/web-animation-skills/main/skills/micro-interaction/SKILL.md",
+  "githubUrl": "https://github.com/iart-ai/web-animation-skills/blob/main/skills/micro-interaction/SKILL.md",
+  "name": "micro-interaction",
+  "topics": [
+    "interaction",
+    "motion",
+    "frontend"
+  ],
+  "description": "UI motion guidance for hover and press feedback, toggles, toasts, drawers, modals, list transitions, and shared-element interactions.",
+  "pathSlug": "iart-ai/micro-interaction",
+  "sourceKey": "iart-ai",
+  "sourceLabel": "iart-ai"
+}

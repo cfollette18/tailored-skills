@@ -1,0 +1,17 @@
+{
+  "slug": "fixing-metadata",
+  "user": "ibelick",
+  "repo": "ui-skills",
+  "rawUrl": "https://raw.githubusercontent.com/ibelick/ui-skills/main/skills/fixing-metadata/SKILL.md",
+  "githubUrl": "https://github.com/ibelick/ui-skills/blob/main/skills/fixing-metadata/SKILL.md",
+  "name": "fixing-metadata",
+  "topics": [
+    "architecture",
+    "frontend",
+    "tooling"
+  ],
+  "description": "Audit and fix page metadata including titles, meta descriptions, Open Graph, Twitter cards, canonical URLs, and JSON-LD structured data. Use when shipping new pages or fixing SEO and social preview issues.",
+  "pathSlug": "ibelick/fixing-metadata",
+  "sourceKey": "ibelick",
+  "sourceLabel": "ibelick"
+}

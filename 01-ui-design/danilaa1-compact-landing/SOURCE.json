@@ -1,0 +1,18 @@
+{
+  "slug": "compact-landing",
+  "user": "Danilaa1",
+  "repo": "compact-landing-skill",
+  "rawUrl": "https://raw.githubusercontent.com/Danilaa1/compact-landing-skill/main/skills/compact-landing/SKILL.md",
+  "githubUrl": "https://github.com/Danilaa1/compact-landing-skill/blob/main/skills/compact-landing/SKILL.md",
+  "name": "compact-landing",
+  "topics": [
+    "visual",
+    "craft",
+    "typography",
+    "frontend"
+  ],
+  "description": "Build compact premium landing pages with clear CTA hierarchy, quiet typography, and minimal visual noise.",
+  "pathSlug": "danilaa1/compact-landing",
+  "sourceKey": "danilaa1",
+  "sourceLabel": "Danilaa1"
+}

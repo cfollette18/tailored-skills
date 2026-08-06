@@ -1,0 +1,17 @@
+{
+  "slug": "simple-english",
+  "user": "AminBlg",
+  "repo": "SimpleEnglish",
+  "rawUrl": "https://raw.githubusercontent.com/AminBlg/SimpleEnglish/main/skills/simple-english/SKILL.md",
+  "githubUrl": "https://github.com/AminBlg/SimpleEnglish/blob/main/skills/simple-english/SKILL.md",
+  "name": "simple-english",
+  "topics": [
+    "tooling",
+    "code-quality",
+    "craft"
+  ],
+  "description": "Write or rewrite technical text with ASD-STE100 Simplified Technical English for clear, unambiguous, translation-friendly documentation and interface copy.",
+  "pathSlug": "aminblg/simple-english",
+  "sourceKey": "aminblg",
+  "sourceLabel": "AminBlg"
+}

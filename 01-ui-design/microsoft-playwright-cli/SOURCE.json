@@ -1,0 +1,17 @@
+{
+  "slug": "playwright-cli",
+  "user": "microsoft",
+  "repo": "playwright-cli",
+  "rawUrl": "https://raw.githubusercontent.com/microsoft/playwright-cli/main/skills/playwright-cli/SKILL.md",
+  "githubUrl": "https://github.com/microsoft/playwright-cli/blob/main/skills/playwright-cli/SKILL.md",
+  "name": "playwright-cli",
+  "topics": [
+    "testing",
+    "tooling",
+    "frontend"
+  ],
+  "description": "Official Playwright CLI skill for browser automation, test generation, tracing, and session-driven end-to-end testing workflows.",
+  "pathSlug": "microsoft/playwright-cli",
+  "sourceKey": "microsoft",
+  "sourceLabel": "microsoft"
+}

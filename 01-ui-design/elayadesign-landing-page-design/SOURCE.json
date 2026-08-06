@@ -1,0 +1,18 @@
+{
+  "slug": "landing-page-design",
+  "user": "elayadesign",
+  "repo": "ai-design-skills",
+  "rawUrl": "https://raw.githubusercontent.com/elayadesign/ai-design-skills/main/skills/landing-page-design/SKILL.md",
+  "githubUrl": "https://github.com/elayadesign/ai-design-skills/blob/main/skills/landing-page-design/SKILL.md",
+  "name": "landing-page-design",
+  "topics": [
+    "visual",
+    "frontend",
+    "craft",
+    "interaction"
+  ],
+  "description": "Build high-converting landing pages with intake questions, page structure, conversion copy, SEO, and a disciplined visual system.",
+  "pathSlug": "elayadesign/landing-page-design",
+  "sourceKey": "elayadesign",
+  "sourceLabel": "elayadesign"
+}

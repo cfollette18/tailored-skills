@@ -1,0 +1,17 @@
+{
+  "slug": "vue-testing-best-practices",
+  "user": "vuejs-ai",
+  "repo": "skills",
+  "rawUrl": "https://raw.githubusercontent.com/vuejs-ai/skills/main/skills/vue-testing-best-practices/SKILL.md",
+  "githubUrl": "https://github.com/vuejs-ai/skills/blob/main/skills/vue-testing-best-practices/SKILL.md",
+  "name": "vue-testing-best-practices",
+  "topics": [
+    "vue",
+    "testing",
+    "frontend"
+  ],
+  "description": "Testing strategies for Vue applications, including component tests, integration tests, and reliability patterns.",
+  "pathSlug": "vuejs-ai/vue-testing-best-practices",
+  "sourceKey": "vuejs-ai",
+  "sourceLabel": "vuejs-ai"
+}

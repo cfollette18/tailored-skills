@@ -1,0 +1,17 @@
+{
+  "slug": "overdrive",
+  "user": "pbakaus",
+  "repo": "impeccable",
+  "rawUrl": "https://raw.githubusercontent.com/pbakaus/impeccable/main/skill/reference/overdrive.md",
+  "githubUrl": "https://github.com/pbakaus/impeccable/blob/main/skill/reference/overdrive.md",
+  "name": "overdrive",
+  "topics": [
+    "motion",
+    "visual",
+    "taste"
+  ],
+  "description": "Push interfaces into high-impact territory with advanced animation, shaders, and ambitious interaction systems.",
+  "pathSlug": "pbakaus/overdrive",
+  "sourceKey": "pbakaus",
+  "sourceLabel": "pbakaus"
+}

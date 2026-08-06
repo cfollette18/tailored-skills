@@ -1,0 +1,17 @@
+{
+  "slug": "web-design-guidelines",
+  "user": "antfu",
+  "repo": "skills",
+  "rawUrl": "https://raw.githubusercontent.com/antfu/skills/main/skills/web-design-guidelines/SKILL.md",
+  "githubUrl": "https://github.com/antfu/skills/blob/main/skills/web-design-guidelines/SKILL.md",
+  "name": "web-design-guidelines",
+  "topics": [
+    "visual",
+    "accessibility",
+    "frontend"
+  ],
+  "description": "Review UI code for web interface guideline compliance, including accessibility and UX best practices.",
+  "pathSlug": "antfu/web-design-guidelines",
+  "sourceKey": "antfu",
+  "sourceLabel": "antfu"
+}

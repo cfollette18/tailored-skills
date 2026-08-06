@@ -1,0 +1,17 @@
+{
+  "slug": "svg-animation",
+  "user": "iart-ai",
+  "repo": "web-animation-skills",
+  "rawUrl": "https://raw.githubusercontent.com/iart-ai/web-animation-skills/main/skills/svg-animation/SKILL.md",
+  "githubUrl": "https://github.com/iart-ai/web-animation-skills/blob/main/skills/svg-animation/SKILL.md",
+  "name": "svg-animation",
+  "topics": [
+    "motion",
+    "visual",
+    "frontend"
+  ],
+  "description": "SVG animation techniques for stroke draw-on effects, path morphing, motion paths, animated icons, gradients, and filters.",
+  "pathSlug": "iart-ai/svg-animation",
+  "sourceKey": "iart-ai",
+  "sourceLabel": "iart-ai"
+}

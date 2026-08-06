@@ -1,0 +1,17 @@
+{
+  "slug": "taste-skill",
+  "user": "Leonxlnx",
+  "repo": "taste-skill",
+  "rawUrl": "https://raw.githubusercontent.com/Leonxlnx/taste-skill/main/skills/taste-skill/SKILL.md",
+  "githubUrl": "https://github.com/Leonxlnx/taste-skill/blob/main/skills/taste-skill/SKILL.md",
+  "name": "design-taste-frontend",
+  "topics": [
+    "taste",
+    "visual",
+    "frontend"
+  ],
+  "description": "Senior UI/UX frontend skill that enforces anti-slop design decisions, motion quality, and architecture discipline.",
+  "pathSlug": "leonxlnx/taste-skill",
+  "sourceKey": "leonxlnx",
+  "sourceLabel": "Leonxlnx"
+}

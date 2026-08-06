@@ -1,0 +1,17 @@
+{
+  "slug": "text-to-lottie",
+  "user": "diffusionstudio",
+  "repo": "lottie",
+  "rawUrl": "https://raw.githubusercontent.com/diffusionstudio/lottie/main/skills/text-to-lottie/SKILL.md",
+  "githubUrl": "https://github.com/diffusionstudio/lottie/blob/main/skills/text-to-lottie/SKILL.md",
+  "name": "text-to-lottie",
+  "topics": [
+    "motion",
+    "visual",
+    "frontend"
+  ],
+  "description": "Turn text prompts into polished Lottie animations for motion-heavy UI work.",
+  "pathSlug": "diffusionstudio/text-to-lottie",
+  "sourceKey": "diffusionstudio",
+  "sourceLabel": "diffusionstudio"
+}

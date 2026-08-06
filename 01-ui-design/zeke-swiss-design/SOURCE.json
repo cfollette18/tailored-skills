@@ -1,0 +1,17 @@
+{
+  "slug": "swiss-design",
+  "user": "zeke",
+  "repo": "swiss-design-skill",
+  "rawUrl": "https://raw.githubusercontent.com/zeke/swiss-design-skill/main/swiss-design/SKILL.md",
+  "githubUrl": "https://github.com/zeke/swiss-design-skill/blob/main/swiss-design/SKILL.md",
+  "name": "swiss-design",
+  "topics": [
+    "visual",
+    "typography",
+    "systems"
+  ],
+  "description": "Swiss design system skill focused on grid discipline, typography hierarchy, and clean editorial interface composition.",
+  "pathSlug": "zeke/swiss-design",
+  "sourceKey": "zeke",
+  "sourceLabel": "zeke"
+}

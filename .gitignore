@@ -1,7 +1,33 @@
+# Secrets and environment
 .env
 .env.*
+!.env.example
 *.pem
 *.key
-__pycache__/
+credentials.json
+secrets/
+.secrets/
+
+# OS / editor
 .DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
+*.log
+
+# Python / Node artifacts (if scripts run locally)
+__pycache__/
+*.py[cod]
 node_modules/
+.venv/
+venv/
+
+# Hermes local state (do not commit)
+.hermes/
+
+# Build / cache
+dist/
+build/
+.cache/

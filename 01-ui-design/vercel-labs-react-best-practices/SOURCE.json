@@ -1,0 +1,17 @@
+{
+  "slug": "react-best-practices",
+  "user": "vercel-labs",
+  "repo": "agent-skills",
+  "rawUrl": "https://raw.githubusercontent.com/vercel-labs/agent-skills/main/skills/react-best-practices/SKILL.md",
+  "githubUrl": "https://github.com/vercel-labs/agent-skills/blob/main/skills/react-best-practices/SKILL.md",
+  "name": "vercel-react-best-practices",
+  "topics": [
+    "frontend",
+    "performance",
+    "systems"
+  ],
+  "description": "Vercel React best practices for rendering performance, bundle efficiency, and scalable component architecture.",
+  "pathSlug": "vercel-labs/react-best-practices",
+  "sourceKey": "vercel-labs",
+  "sourceLabel": "vercel-labs"
+}

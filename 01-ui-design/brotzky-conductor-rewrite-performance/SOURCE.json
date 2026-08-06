@@ -1,0 +1,17 @@
+{
+  "slug": "conductor-rewrite-performance",
+  "user": "brotzky",
+  "repo": "performance-skills",
+  "rawUrl": "https://raw.githubusercontent.com/brotzky/performance-skills/main/performance/skills/conductor-rewrite-performance/SKILL.md",
+  "githubUrl": "https://github.com/brotzky/performance-skills/blob/main/performance/skills/conductor-rewrite-performance/SKILL.md",
+  "name": "conductor-rewrite-performance",
+  "topics": [
+    "performance",
+    "frontend",
+    "debugging"
+  ],
+  "description": "Performance guidance for local-first desktop apps, including React render optimization, streaming list virtualization, profiling, and background work.",
+  "pathSlug": "brotzky/conductor-rewrite-performance",
+  "sourceKey": "brotzky",
+  "sourceLabel": "brotzky"
+}

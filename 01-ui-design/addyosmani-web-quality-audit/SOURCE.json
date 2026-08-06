@@ -1,0 +1,17 @@
+{
+  "slug": "web-quality-audit",
+  "user": "addyosmani",
+  "repo": "web-quality-skills",
+  "rawUrl": "https://raw.githubusercontent.com/addyosmani/web-quality-skills/main/skills/web-quality-audit/SKILL.md",
+  "githubUrl": "https://github.com/addyosmani/web-quality-skills/blob/main/skills/web-quality-audit/SKILL.md",
+  "name": "web-quality-audit",
+  "topics": [
+    "performance",
+    "accessibility",
+    "testing"
+  ],
+  "description": "Web quality auditing skill for Lighthouse-style analysis across performance, accessibility, best practices, and SEO signals.",
+  "pathSlug": "addyosmani/web-quality-audit",
+  "sourceKey": "addyosmani",
+  "sourceLabel": "addyosmani"
+}

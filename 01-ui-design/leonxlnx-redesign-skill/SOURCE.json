@@ -1,0 +1,17 @@
+{
+  "slug": "redesign-skill",
+  "user": "Leonxlnx",
+  "repo": "taste-skill",
+  "rawUrl": "https://raw.githubusercontent.com/Leonxlnx/taste-skill/main/skills/redesign-skill/SKILL.md",
+  "githubUrl": "https://github.com/Leonxlnx/taste-skill/blob/main/skills/redesign-skill/SKILL.md",
+  "name": "redesign-existing-projects",
+  "topics": [
+    "craft",
+    "visual",
+    "interaction"
+  ],
+  "description": "Audit and upgrade existing interfaces to premium visual quality while preserving product functionality.",
+  "pathSlug": "leonxlnx/redesign-skill",
+  "sourceKey": "leonxlnx",
+  "sourceLabel": "Leonxlnx"
+}

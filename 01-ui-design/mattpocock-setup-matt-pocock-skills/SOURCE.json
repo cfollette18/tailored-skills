@@ -1,0 +1,16 @@
+{
+  "slug": "setup-matt-pocock-skills",
+  "user": "mattpocock",
+  "repo": "skills",
+  "rawUrl": "https://raw.githubusercontent.com/mattpocock/skills/main/skills/engineering/setup-matt-pocock-skills/SKILL.md",
+  "githubUrl": "https://github.com/mattpocock/skills/blob/main/skills/engineering/setup-matt-pocock-skills/SKILL.md",
+  "name": "setup-matt-pocock-skills",
+  "topics": [
+    "tooling",
+    "architecture"
+  ],
+  "description": "One-time repo setup for the engineering skill workflow and related conventions.",
+  "pathSlug": "mattpocock/setup-matt-pocock-skills",
+  "sourceKey": "mattpocock",
+  "sourceLabel": "mattpocock"
+}

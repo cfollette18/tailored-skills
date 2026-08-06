@@ -1,0 +1,17 @@
+{
+  "slug": "design-first-ui-prompting",
+  "user": "MengTo",
+  "repo": "Skills",
+  "rawUrl": "https://raw.githubusercontent.com/MengTo/Skills/main/agent-skills/ui/design-first-ui-prompting/SKILL.md",
+  "githubUrl": "https://github.com/MengTo/Skills/blob/main/agent-skills/ui/design-first-ui-prompting/SKILL.md",
+  "name": "design-first-ui-prompting",
+  "topics": [
+    "visual",
+    "systems",
+    "frontend"
+  ],
+  "description": "Use when you want to turn a product goal into a design-first UI prompt with clear layout, type, color, and constraint choices.",
+  "pathSlug": "mengto/design-first-ui-prompting",
+  "sourceKey": "mengto",
+  "sourceLabel": "MengTo"
+}

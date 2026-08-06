@@ -1,0 +1,17 @@
+{
+  "slug": "animation-on-scroll",
+  "user": "MengTo",
+  "repo": "Skills",
+  "rawUrl": "https://raw.githubusercontent.com/MengTo/Skills/main/agent-skills/web-design/animation-on-scroll/SKILL.md",
+  "githubUrl": "https://github.com/MengTo/Skills/blob/main/agent-skills/web-design/animation-on-scroll/SKILL.md",
+  "name": "animation-on-scroll",
+  "topics": [
+    "motion",
+    "interaction",
+    "frontend"
+  ],
+  "description": "Use when you need scroll-driven motion that feels intentional instead of noisy or overdone.",
+  "pathSlug": "mengto/animation-on-scroll",
+  "sourceKey": "mengto",
+  "sourceLabel": "MengTo"
+}

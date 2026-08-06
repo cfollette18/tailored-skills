@@ -1,0 +1,17 @@
+{
+  "slug": "link-purpose",
+  "user": "AccessLint",
+  "repo": "claude-marketplace",
+  "rawUrl": "https://raw.githubusercontent.com/AccessLint/claude-marketplace/main/plugins/accesslint/skills/audit-and-fix/SKILL.md",
+  "githubUrl": "https://github.com/AccessLint/claude-marketplace/blob/main/plugins/accesslint/skills/audit-and-fix/SKILL.md",
+  "name": "link-purpose",
+  "topics": [
+    "accessibility",
+    "testing",
+    "interaction"
+  ],
+  "description": "Compatibility listing for link-purpose installs from AccessLint's marketplace skill set.",
+  "pathSlug": "accesslint/link-purpose",
+  "sourceKey": "accesslint",
+  "sourceLabel": "AccessLint"
+}

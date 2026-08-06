@@ -1,0 +1,17 @@
+{
+  "slug": "output-skill",
+  "user": "Leonxlnx",
+  "repo": "taste-skill",
+  "rawUrl": "https://raw.githubusercontent.com/Leonxlnx/taste-skill/main/skills/output-skill/SKILL.md",
+  "githubUrl": "https://github.com/Leonxlnx/taste-skill/blob/main/skills/output-skill/SKILL.md",
+  "name": "full-output-enforcement",
+  "topics": [
+    "tooling",
+    "testing",
+    "frontend"
+  ],
+  "description": "Enforces complete, non-truncated code output and blocks placeholder or half-finished responses.",
+  "pathSlug": "leonxlnx/output-skill",
+  "sourceKey": "leonxlnx",
+  "sourceLabel": "Leonxlnx"
+}

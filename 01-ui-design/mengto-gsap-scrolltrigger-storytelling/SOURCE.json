@@ -1,0 +1,17 @@
+{
+  "slug": "gsap-scrolltrigger-storytelling",
+  "user": "MengTo",
+  "repo": "Skills",
+  "rawUrl": "https://raw.githubusercontent.com/MengTo/Skills/main/agent-skills/web-design/gsap-scrolltrigger-storytelling/SKILL.md",
+  "githubUrl": "https://github.com/MengTo/Skills/blob/main/agent-skills/web-design/gsap-scrolltrigger-storytelling/SKILL.md",
+  "name": "gsap-scrolltrigger-storytelling",
+  "topics": [
+    "motion",
+    "interaction",
+    "frontend"
+  ],
+  "description": "Use when building scroll-based storytelling sections with GSAP ScrollTrigger.",
+  "pathSlug": "mengto/gsap-scrolltrigger-storytelling",
+  "sourceKey": "mengto",
+  "sourceLabel": "MengTo"
+}

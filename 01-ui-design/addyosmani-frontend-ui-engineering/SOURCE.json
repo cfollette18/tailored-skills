@@ -1,0 +1,17 @@
+{
+  "slug": "frontend-ui-engineering",
+  "user": "addyosmani",
+  "repo": "agent-skills",
+  "rawUrl": "https://raw.githubusercontent.com/addyosmani/agent-skills/main/skills/frontend-ui-engineering/SKILL.md",
+  "githubUrl": "https://github.com/addyosmani/agent-skills/blob/main/skills/frontend-ui-engineering/SKILL.md",
+  "name": "frontend-ui-engineering",
+  "topics": [
+    "frontend",
+    "systems",
+    "accessibility"
+  ],
+  "description": "Frontend UI engineering guidance covering component architecture, responsive design, accessibility, and maintainable implementation patterns.",
+  "pathSlug": "addyosmani/frontend-ui-engineering",
+  "sourceKey": "addyosmani",
+  "sourceLabel": "addyosmani"
+}

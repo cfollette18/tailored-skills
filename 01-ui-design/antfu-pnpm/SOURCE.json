@@ -1,0 +1,17 @@
+{
+  "slug": "pnpm",
+  "user": "antfu",
+  "repo": "skills",
+  "rawUrl": "https://raw.githubusercontent.com/antfu/skills/main/skills/pnpm/SKILL.md",
+  "githubUrl": "https://github.com/antfu/skills/blob/main/skills/pnpm/SKILL.md",
+  "name": "pnpm",
+  "topics": [
+    "tooling",
+    "frontend",
+    "performance"
+  ],
+  "description": "pnpm package manager guidance for strict dependency resolution, workspaces, catalogs, patches, and overrides.",
+  "pathSlug": "antfu/pnpm",
+  "sourceKey": "antfu",
+  "sourceLabel": "antfu"
+}

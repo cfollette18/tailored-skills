@@ -1,0 +1,17 @@
+{
+  "slug": "turborepo",
+  "user": "antfu",
+  "repo": "skills",
+  "rawUrl": "https://raw.githubusercontent.com/antfu/skills/main/skills/turborepo/SKILL.md",
+  "githubUrl": "https://github.com/antfu/skills/blob/main/skills/turborepo/SKILL.md",
+  "name": "turborepo",
+  "topics": [
+    "tooling",
+    "performance",
+    "frontend"
+  ],
+  "description": "Turborepo monorepo build system guidance for pipelines, caching, filtering, CI, and package boundaries.",
+  "pathSlug": "antfu/turborepo",
+  "sourceKey": "antfu",
+  "sourceLabel": "antfu"
+}
