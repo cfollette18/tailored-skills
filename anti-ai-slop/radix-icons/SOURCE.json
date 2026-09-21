@@ -1,0 +1,10 @@
+{
+  "name": "radix-icons",
+  "author": "cfollette18",
+  "type": "original",
+  "documentation_checked": "2026-09-21",
+  "references": [
+    "https://www.radix-ui.com/icons"
+  ],
+  "note": "Original integration guidance. No upstream icon assets are bundled; asset licenses remain separate."
+}

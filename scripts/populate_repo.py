@@ -17,6 +17,20 @@ VERA = Path("/home/cfollette18/vera/skills")
 REGISTRY_URL = "https://www.ui-skills.com/skills/registry.json"
 REGISTRY_CACHE = Path("/tmp/ui-skills-registry.json")
 
+# These upstream skills now live in the owner-selected root category.
+# Keep refreshes from recreating a second copy under 01-ui-design.
+ANTI_SLOP_UI_SKILLS = {
+    'aminblg-simple-english',
+    'bencium-bencium-innovative-ux-designer',
+    'leonxlnx-redesign-skill',
+    'leonxlnx-stitch-skill',
+    'leonxlnx-taste-skill',
+    'mengto-design-taste-frontend',
+    'mengto-redesign-existing-projects',
+    'mengto-stitch-design-taste',
+    'zarazhangrui-frontend-slides',
+}
+
 # Personal / machine-specific path scrubbing
 SCRUB_PATTERNS: list[tuple[re.Pattern[str], str]] = [
     (re.compile(r"/home/cfollette18/[^\s\"']+"), "$PROJECT_ROOT"),
@@ -106,6 +120,8 @@ def write_ui_skills(registry: list[dict]) -> tuple[int, list[str]]:
         slug = entry["slug"]
         path_slug = entry.get("pathSlug", slug)
         dest_name = path_slug.replace("/", "-")
+        if dest_name in ANTI_SLOP_UI_SKILLS:
+            dest_name = "../anti-ai-slop/" + dest_name
         dest = base / dest_name
         raw_url = entry["rawUrl"]
         description = entry.get("description", "")

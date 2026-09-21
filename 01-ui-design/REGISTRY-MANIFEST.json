@@ -60,7 +60,7 @@
   {
     "slug": "design-taste-frontend",
     "pathSlug": "mengto/design-taste-frontend",
-    "dest": "mengto-design-taste-frontend",
+    "dest": "../anti-ai-slop/mengto-design-taste-frontend",
     "source": "MengTo/Skills",
     "rawUrl": "https://raw.githubusercontent.com/MengTo/Skills/main/agent-skills/ui/design-taste-frontend/SKILL.md",
     "topics": [
@@ -144,7 +144,7 @@
   {
     "slug": "redesign-existing-projects",
     "pathSlug": "mengto/redesign-existing-projects",
-    "dest": "mengto-redesign-existing-projects",
+    "dest": "../anti-ai-slop/mengto-redesign-existing-projects",
     "source": "MengTo/Skills",
     "rawUrl": "https://raw.githubusercontent.com/MengTo/Skills/main/agent-skills/ui/redesign-existing-projects/SKILL.md",
     "topics": [
@@ -168,7 +168,7 @@
   {
     "slug": "stitch-design-taste",
     "pathSlug": "mengto/stitch-design-taste",
-    "dest": "mengto-stitch-design-taste",
+    "dest": "../anti-ai-slop/mengto-stitch-design-taste",
     "source": "MengTo/Skills",
     "rawUrl": "https://raw.githubusercontent.com/MengTo/Skills/main/agent-skills/ui/stitch-design-taste/SKILL.md",
     "topics": [
@@ -1249,7 +1249,7 @@
   {
     "slug": "bencium-innovative-ux-designer",
     "pathSlug": "bencium/bencium-innovative-ux-designer",
-    "dest": "bencium-bencium-innovative-ux-designer",
+    "dest": "../anti-ai-slop/bencium-bencium-innovative-ux-designer",
     "source": "bencium/bencium-marketplace",
     "rawUrl": "https://raw.githubusercontent.com/bencium/bencium-marketplace/main/bencium-innovative-ux-designer/skills/bencium-innovative-ux-designer/SKILL.md",
     "topics": [
@@ -1441,7 +1441,7 @@
   {
     "slug": "frontend-slides",
     "pathSlug": "zarazhangrui/frontend-slides",
-    "dest": "zarazhangrui-frontend-slides",
+    "dest": "../anti-ai-slop/zarazhangrui-frontend-slides",
     "source": "zarazhangrui/frontend-slides",
     "rawUrl": "https://raw.githubusercontent.com/zarazhangrui/frontend-slides/main/SKILL.md",
     "topics": [
@@ -1525,7 +1525,7 @@
   {
     "slug": "redesign-skill",
     "pathSlug": "leonxlnx/redesign-skill",
-    "dest": "leonxlnx-redesign-skill",
+    "dest": "../anti-ai-slop/leonxlnx-redesign-skill",
     "source": "Leonxlnx/taste-skill",
     "rawUrl": "https://raw.githubusercontent.com/Leonxlnx/taste-skill/main/skills/redesign-skill/SKILL.md",
     "topics": [
@@ -1549,7 +1549,7 @@
   {
     "slug": "stitch-skill",
     "pathSlug": "leonxlnx/stitch-skill",
-    "dest": "leonxlnx-stitch-skill",
+    "dest": "../anti-ai-slop/leonxlnx-stitch-skill",
     "source": "Leonxlnx/taste-skill",
     "rawUrl": "https://raw.githubusercontent.com/Leonxlnx/taste-skill/main/skills/stitch-skill/SKILL.md",
     "topics": [
@@ -1561,7 +1561,7 @@
   {
     "slug": "taste-skill",
     "pathSlug": "leonxlnx/taste-skill",
-    "dest": "leonxlnx-taste-skill",
+    "dest": "../anti-ai-slop/leonxlnx-taste-skill",
     "source": "Leonxlnx/taste-skill",
     "rawUrl": "https://raw.githubusercontent.com/Leonxlnx/taste-skill/main/skills/taste-skill/SKILL.md",
     "topics": [
@@ -2406,7 +2406,7 @@
   {
     "slug": "simple-english",
     "pathSlug": "aminblg/simple-english",
-    "dest": "aminblg-simple-english",
+    "dest": "../anti-ai-slop/aminblg-simple-english",
     "source": "AminBlg/SimpleEnglish",
     "rawUrl": "https://raw.githubusercontent.com/AminBlg/SimpleEnglish/main/skills/simple-english/SKILL.md",
     "topics": [

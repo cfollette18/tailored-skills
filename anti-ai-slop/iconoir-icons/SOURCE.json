@@ -1,0 +1,11 @@
+{
+  "name": "iconoir-icons",
+  "author": "cfollette18",
+  "type": "original",
+  "documentation_checked": "2026-09-21",
+  "references": [
+    "https://github.com/iconoir-icons/iconoir/tree/main/packages/iconoir-react",
+    "https://iconoir.com/"
+  ],
+  "note": "Original integration guidance. No upstream icon assets are bundled; asset licenses remain separate."
+}

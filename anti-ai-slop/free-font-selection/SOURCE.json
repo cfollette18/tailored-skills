@@ -1,0 +1,13 @@
+{
+  "name": "free-font-selection",
+  "author": "cfollette18",
+  "type": "original",
+  "documentation_checked": "2026-09-21",
+  "references": [
+    "https://www.fontshare.com/about",
+    "https://www.fontshare.com/licenses",
+    "https://fontsource.org/docs/getting-started/install",
+    "https://uncut.wtf/sans-serif/uncut-sans/"
+  ],
+  "note": "Selection guide for the 12 researched free families. Family guides contain individual source and package records. No font binaries bundled."
+}

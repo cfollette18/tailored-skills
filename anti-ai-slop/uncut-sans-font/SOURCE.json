@@ -1,0 +1,13 @@
+{
+  "name": "uncut-sans-font",
+  "author": "cfollette18",
+  "type": "original",
+  "documentation_checked": "2026-09-21",
+  "category": "Distinctive sans",
+  "font_license": "OFL-1.1",
+  "references": [
+    "https://uncut.wtf/sans-serif/uncut-sans/",
+    "https://github.com/kaspernordkvist/uncut_sans"
+  ],
+  "note": "Original integration guidance. No font binaries are bundled; font licenses are separate from the repository license."
+}

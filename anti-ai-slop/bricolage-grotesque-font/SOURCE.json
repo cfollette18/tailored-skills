@@ -1,0 +1,18 @@
+{
+  "name": "bricolage-grotesque-font",
+  "author": "cfollette18",
+  "type": "original",
+  "documentation_checked": "2026-09-21",
+  "category": "Distinctive sans",
+  "font_license": "OFL-1.1",
+  "references": [
+    "https://ateliertriay.github.io/bricolage/",
+    "https://fontsource.org/fonts/bricolage-grotesque/use",
+    "https://fontsource.org/docs/getting-started/install"
+  ],
+  "note": "Original integration guidance. No font binaries are bundled; font licenses are separate from the repository license.",
+  "verified_package": {
+    "name": "@fontsource-variable/bricolage-grotesque",
+    "version": "5.3.0"
+  }
+}

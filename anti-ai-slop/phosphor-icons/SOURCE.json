@@ -1,0 +1,11 @@
+{
+  "name": "phosphor-icons",
+  "author": "cfollette18",
+  "type": "original",
+  "documentation_checked": "2026-09-21",
+  "references": [
+    "https://github.com/phosphor-icons/react",
+    "https://phosphoricons.com/"
+  ],
+  "note": "Original integration guidance. No upstream icon assets are bundled; asset licenses remain separate."
+}

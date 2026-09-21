@@ -1,0 +1,12 @@
+{
+  "name": "navigation-and-view-transitions",
+  "author": "cfollette18",
+  "type": "original",
+  "documentation_checked": "2026-09-21",
+  "references": [
+    "https://motion.dev/docs/react-layout-animations",
+    "https://developer.mozilla.org/en-US/docs/Web/API/View_Transition_API",
+    "https://emilkowal.ski/ui/good-vs-great-animations"
+  ],
+  "note": "Original, product-agnostic guidance. Timings are starting recommendations unless explicitly identified as observed or source-confirmed. No vendor animation assets are distributed."
+}

@@ -1,0 +1,13 @@
+{
+  "name": "streamline-icons",
+  "author": "cfollette18",
+  "type": "original",
+  "documentation_checked": "2026-09-21",
+  "references": [
+    "https://site.streamlinehq.com/free/icons-for-react",
+    "https://blog.streamlinehq.com/the-streamline-icon-system/",
+    "https://help.streamlinehq.com/en/articles/5354376-streamline-free-license",
+    "https://help.streamlinehq.com/en/articles/5354366-streamline-premium-licenses"
+  ],
+  "note": "Original integration guidance. No upstream icon assets are bundled; asset licenses remain separate."
+}

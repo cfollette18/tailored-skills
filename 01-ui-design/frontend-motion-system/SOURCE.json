@@ -1,0 +1,16 @@
+{
+  "name": "frontend-motion-system",
+  "author": "cfollette18",
+  "type": "original",
+  "documentation_checked": "2026-09-21",
+  "references": [
+    "https://carbondesignsystem.com/elements/motion/overview/",
+    "https://motion.dev/docs/react-layout-animations",
+    "https://motion.dev/docs/react-transitions",
+    "https://motion.dev/docs/react-accessibility",
+    "https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API",
+    "https://developer.mozilla.org/en-US/docs/Web/API/Animation/reverse",
+    "https://web.dev/articles/animations-guide"
+  ],
+  "note": "Original, product-agnostic guidance. Timings are starting recommendations unless explicitly identified as observed or source-confirmed. No vendor animation assets are distributed."
+}

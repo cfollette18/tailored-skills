@@ -1,0 +1,18 @@
+{
+  "name": "source-sans-3-font",
+  "author": "cfollette18",
+  "type": "original",
+  "documentation_checked": "2026-09-21",
+  "category": "Quiet professional sans",
+  "font_license": "OFL-1.1",
+  "references": [
+    "https://github.com/adobe-fonts/source-sans",
+    "https://fontsource.org/fonts/source-sans-3/use",
+    "https://fontsource.org/docs/getting-started/install"
+  ],
+  "note": "Original integration guidance. No font binaries are bundled; font licenses are separate from the repository license.",
+  "verified_package": {
+    "name": "@fontsource-variable/source-sans-3",
+    "version": "5.3.0"
+  }
+}

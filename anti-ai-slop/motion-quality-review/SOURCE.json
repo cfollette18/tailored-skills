@@ -1,0 +1,13 @@
+{
+  "name": "motion-quality-review",
+  "author": "cfollette18",
+  "type": "original",
+  "documentation_checked": "2026-09-21",
+  "references": [
+    "https://www.nngroup.com/articles/animation-purpose-ux/",
+    "https://emilkowal.ski/ui/good-vs-great-animations",
+    "https://web.dev/articles/animations-guide",
+    "https://www.w3.org/WAI/WCAG22/Understanding/animation-from-interactions.html"
+  ],
+  "note": "Original, product-agnostic guidance. Timings are starting recommendations unless explicitly identified as observed or source-confirmed. No vendor animation assets are distributed."
+}

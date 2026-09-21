@@ -1,0 +1,15 @@
+{
+  "name": "motion-accessibility-performance",
+  "author": "cfollette18",
+  "type": "original",
+  "documentation_checked": "2026-09-21",
+  "references": [
+    "https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/At-rules/@media/prefers-reduced-motion",
+    "https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/At-rules/@media/hover",
+    "https://www.w3.org/WAI/WCAG22/Understanding/animation-from-interactions.html",
+    "https://www.w3.org/WAI/WCAG22/Understanding/content-on-hover-or-focus.html",
+    "https://motion.dev/docs/react-accessibility",
+    "https://web.dev/articles/animations-guide"
+  ],
+  "note": "Original, product-agnostic guidance. Timings are starting recommendations unless explicitly identified as observed or source-confirmed. No vendor animation assets are distributed."
+}

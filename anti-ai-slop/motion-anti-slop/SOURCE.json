@@ -1,0 +1,12 @@
+{
+  "name": "motion-anti-slop",
+  "author": "cfollette18",
+  "type": "original",
+  "documentation_checked": "2026-09-21",
+  "references": [
+    "https://www.nngroup.com/articles/animation-purpose-ux/",
+    "https://emilkowal.ski/ui/you-dont-need-animations",
+    "https://carbondesignsystem.com/elements/motion/overview/"
+  ],
+  "note": "Original, product-agnostic guidance. Timings are starting recommendations unless explicitly identified as observed or source-confirmed. No vendor animation assets are distributed."
+}
