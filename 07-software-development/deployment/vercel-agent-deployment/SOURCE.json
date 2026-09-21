@@ -1,0 +1,14 @@
+{
+  "name": "vercel-agent-deployment",
+  "author": "cfollette18",
+  "type": "original",
+  "documentation_checked": "2026-09-21",
+  "references": [
+    "https://vercel.com/docs/functions/limitations",
+    "https://vercel.com/docs/functions/runtimes",
+    "https://vercel.com/docs/frameworks/frontend/vite",
+    "https://vercel.com/docs/routing/rewrites",
+    "https://vercel.com/kb/guide/vercel-sandbox-duration-and-persistence"
+  ],
+  "note": "Original reusable implementation guidance synthesized from primary documentation; provider limits and plan entitlements must be rechecked at use."
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Streaming Chat Lifecycle"
+  short_description: "Keep chat events, replay, and cancellation consistent"
+  default_prompt: "Use $streaming-chat-lifecycle to implement reliable chat streaming and recovery."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Workflow Coordination"
+  short_description: "Agent Workflow Coordination guidance and evidence"
+  default_prompt: "Use $agent-workflow-coordination to apply this production AI practice to my project."

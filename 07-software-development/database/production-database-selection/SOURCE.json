@@ -1,0 +1,14 @@
+{
+  "name": "production-database-selection",
+  "author": "cfollette18",
+  "type": "original",
+  "documentation_checked": "2026-09-21",
+  "references": [
+    "https://supabase.com/docs/guides/deployment/shared-responsibility-model",
+    "https://neon.com/docs/connect/connection-pooling",
+    "https://neon.com/docs/introduction/branching",
+    "https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/Concepts.AuroraHighAvailability.html",
+    "https://www.cockroachlabs.com/docs/stable/row-level-security"
+  ],
+  "note": "Original reusable implementation guidance synthesized from primary documentation; provider limits and plan entitlements must be rechecked at use."
+}

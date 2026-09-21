@@ -1,0 +1,4 @@
+interface:
+  display_name: "Evidence Source Ingestion"
+  short_description: "Evidence Source Ingestion guidance and evidence"
+  default_prompt: "Use $evidence-source-ingestion to apply this production AI practice to my project."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Production AI Project Contract"
+  short_description: "Production AI Project Contract guidance and evidence"
+  default_prompt: "Use $production-ai-project-contract to apply this production AI practice to my project."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Inline Tool Calls"
+  short_description: "Expandable tool purposes and results inside chat"
+  default_prompt: "Use $inline-tool-call-ui to show tool calls as compact inline disclosures."

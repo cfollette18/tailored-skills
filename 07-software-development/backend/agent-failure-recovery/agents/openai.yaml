@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Failure Recovery"
+  short_description: "Agent Failure Recovery guidance and evidence"
+  default_prompt: "Use $agent-failure-recovery to apply this production AI practice to my project."

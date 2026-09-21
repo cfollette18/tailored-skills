@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agentic BM25 Retrieval"
+  short_description: "Agentic BM25 Retrieval guidance and evidence"
+  default_prompt: "Use $agentic-bm25-retrieval to apply this production AI practice to my project."

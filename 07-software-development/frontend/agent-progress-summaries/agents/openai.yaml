@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Progress Summaries"
+  short_description: "Show useful agent activity without private reasoning"
+  default_prompt: "Use $agent-progress-summaries to add frequent, evidence-based chat activity updates."

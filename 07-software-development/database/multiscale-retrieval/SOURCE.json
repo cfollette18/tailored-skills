@@ -1,0 +1,23 @@
+{
+  "name": "multiscale-retrieval",
+  "author": "cfollette18",
+  "type": "derived-original",
+  "source_repository": "https://github.com/cfollette18/production-ai-framework",
+  "source_revision": "feb7e5ca4df01bb722f8b83f6ff1962c276f2bd8",
+  "reviewed": "2026-09-21",
+  "inputs": [
+    {
+      "path": "docs/multiscale-indexing.md",
+      "sha256": "ff7ec137304102b10e05004ef07519671b0e2349f103b85d57b4828df7fdfe73"
+    },
+    {
+      "path": "docs/source-notes-multiscale.md",
+      "sha256": "477ed397688931ec1df695266b61a712b32a0f4e409dc0af4376807135195f23"
+    },
+    {
+      "path": "docs/retrieval-and-reproducibility.md",
+      "sha256": "dc0503a82d007ec23fc9e83edafd5ae35ec203b3fcbcb694d0c2fe1cec2f6710"
+    }
+  ],
+  "note": "Owner-requested reusable skills. Implementation guidance remains distinct from source claims; no transcript or production data copied."
+}

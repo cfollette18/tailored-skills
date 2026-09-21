@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Data Lifecycle"
+  short_description: "AI Data Lifecycle guidance and evidence"
+  default_prompt: "Use $ai-data-lifecycle to apply this production AI practice to my project."

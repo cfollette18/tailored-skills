@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Release Governance"
+  short_description: "AI Release Governance guidance and evidence"
+  default_prompt: "Use $ai-release-governance to apply this production AI practice to my project."

@@ -1,0 +1,23 @@
+{
+  "name": "agentic-bm25-retrieval",
+  "author": "cfollette18",
+  "type": "derived-original",
+  "source_repository": "https://github.com/cfollette18/production-ai-framework",
+  "source_revision": "feb7e5ca4df01bb722f8b83f6ff1962c276f2bd8",
+  "reviewed": "2026-09-21",
+  "inputs": [
+    {
+      "path": "docs/lexical-retrieval-bm25.md",
+      "sha256": "c0f32397da3a5ddd6af4eb52be1fec394e83e609f9ee30e33a3f6a4b5acef5a3"
+    },
+    {
+      "path": "docs/source-notes-bm25.md",
+      "sha256": "d82fa51fdd794d0374a7660878acd21bbad3bb3eddf6c884870dd39c33be539d"
+    },
+    {
+      "path": "docs/retrieval-and-reproducibility.md",
+      "sha256": "dc0503a82d007ec23fc9e83edafd5ae35ec203b3fcbcb694d0c2fe1cec2f6710"
+    }
+  ],
+  "note": "Owner-requested reusable skills. Implementation guidance remains distinct from source claims; no transcript or production data copied."
+}

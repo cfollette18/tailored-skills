@@ -1,0 +1,23 @@
+{
+  "name": "ai-release-governance",
+  "author": "cfollette18",
+  "type": "derived-original",
+  "source_repository": "https://github.com/cfollette18/production-ai-framework",
+  "source_revision": "feb7e5ca4df01bb722f8b83f6ff1962c276f2bd8",
+  "reviewed": "2026-09-21",
+  "inputs": [
+    {
+      "path": "docs/operating-framework.md",
+      "sha256": "63ea576c6f7dd163b682f81cd70bd096655d3b8ad6f260fe8b67bce3fb5824f4"
+    },
+    {
+      "path": "docs/pillars.md",
+      "sha256": "68c6a6309a6e01af1f73a3db93832f362b272e6842e7f8f87111172da048100b"
+    },
+    {
+      "path": "templates/change.json",
+      "sha256": "d7b0518dbadce382c678079348b6b72a6a8103755fc9540ccf41595dd71c1ead"
+    }
+  ],
+  "note": "Owner-requested reusable skills. Implementation guidance remains distinct from source claims; no transcript or production data copied."
+}

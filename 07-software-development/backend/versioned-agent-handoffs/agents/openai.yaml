@@ -1,0 +1,4 @@
+interface:
+  display_name: "Versioned Agent Handoffs"
+  short_description: "Versioned Agent Handoffs guidance and evidence"
+  default_prompt: "Use $versioned-agent-handoffs to apply this production AI practice to my project."

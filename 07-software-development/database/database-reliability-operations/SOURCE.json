@@ -1,0 +1,13 @@
+{
+  "name": "database-reliability-operations",
+  "author": "cfollette18",
+  "type": "original",
+  "documentation_checked": "2026-09-21",
+  "references": [
+    "https://supabase.com/docs/guides/platform/backups",
+    "https://supabase.com/docs/guides/database/connecting-to-postgres",
+    "https://neon.com/docs/connect/connection-pooling",
+    "https://neon.com/docs/introduction/branching"
+  ],
+  "note": "Original reusable implementation guidance synthesized from primary documentation; provider limits and plan entitlements must be rechecked at use."
+}

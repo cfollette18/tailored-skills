@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Evaluation and Release"
+  short_description: "AI Evaluation and Release guidance and evidence"
+  default_prompt: "Use $ai-evaluation-release to apply this production AI practice to my project."

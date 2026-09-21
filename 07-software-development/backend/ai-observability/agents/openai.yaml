@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Observability"
+  short_description: "AI Observability guidance and evidence"
+  default_prompt: "Use $ai-observability to apply this production AI practice to my project."

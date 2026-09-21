@@ -1,0 +1,4 @@
+interface:
+  display_name: "Multiscale Retrieval"
+  short_description: "Multiscale Retrieval guidance and evidence"
+  default_prompt: "Use $multiscale-retrieval to apply this production AI practice to my project."

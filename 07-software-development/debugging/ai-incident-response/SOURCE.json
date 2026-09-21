@@ -1,0 +1,23 @@
+{
+  "name": "ai-incident-response",
+  "author": "cfollette18",
+  "type": "derived-original",
+  "source_repository": "https://github.com/cfollette18/production-ai-framework",
+  "source_revision": "feb7e5ca4df01bb722f8b83f6ff1962c276f2bd8",
+  "reviewed": "2026-09-21",
+  "inputs": [
+    {
+      "path": "docs/operating-framework.md",
+      "sha256": "63ea576c6f7dd163b682f81cd70bd096655d3b8ad6f260fe8b67bce3fb5824f4"
+    },
+    {
+      "path": "docs/multi-agent-orchestration.md",
+      "sha256": "093bdaf4c4e17b660dd24a1fcc2a6dda834641e205ed0a65f978b8c4a8b3e71b"
+    },
+    {
+      "path": "templates/incident.json",
+      "sha256": "f831e8eb70d7ec9446894398a44a3c3fb78267009e003f7c05a7439e88922a71"
+    }
+  ],
+  "note": "Owner-requested reusable skills. Implementation guidance remains distinct from source claims; no transcript or production data copied."
+}

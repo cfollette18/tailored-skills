@@ -1,0 +1,4 @@
+interface:
+  display_name: "Portable AI Knowledge"
+  short_description: "Portable AI Knowledge guidance and evidence"
+  default_prompt: "Use $portable-ai-knowledge to apply this production AI practice to my project."

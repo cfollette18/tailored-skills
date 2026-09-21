@@ -1,0 +1,23 @@
+{
+  "name": "portable-ai-knowledge",
+  "author": "cfollette18",
+  "type": "derived-original",
+  "source_repository": "https://github.com/cfollette18/production-ai-framework",
+  "source_revision": "feb7e5ca4df01bb722f8b83f6ff1962c276f2bd8",
+  "reviewed": "2026-09-21",
+  "inputs": [
+    {
+      "path": "docs/agent-integration.md",
+      "sha256": "567398804ecf3f6f5239f80c2aef8559db79ded99d18f131b9d123a2e5605f54"
+    },
+    {
+      "path": "docs/retrieval-and-reproducibility.md",
+      "sha256": "dc0503a82d007ec23fc9e83edafd5ae35ec203b3fcbcb694d0c2fe1cec2f6710"
+    },
+    {
+      "path": "START_HERE.md",
+      "sha256": "d51392b4dda5a750a2e10ccda22526cefdaf1fc3e9c625fe872209caa972b515"
+    }
+  ],
+  "note": "Owner-requested reusable skills. Implementation guidance remains distinct from source claims; no transcript or production data copied."
+}

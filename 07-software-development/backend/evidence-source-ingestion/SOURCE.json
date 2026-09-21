@@ -1,0 +1,27 @@
+{
+  "name": "evidence-source-ingestion",
+  "author": "cfollette18",
+  "type": "derived-original",
+  "source_repository": "https://github.com/cfollette18/production-ai-framework",
+  "source_revision": "feb7e5ca4df01bb722f8b83f6ff1962c276f2bd8",
+  "reviewed": "2026-09-21",
+  "inputs": [
+    {
+      "path": "ingestion/WORKFLOW.md",
+      "sha256": "b84929a833d1aee8f08c7cc3a506a21b4346b0ef0970ee4f051e04ffbf455445"
+    },
+    {
+      "path": "ingestion/ROUTING.md",
+      "sha256": "21e92e02bd173d820d7e3e13b9f5b67061224db08a4d8a2ee9ea2d7bd754b3bb"
+    },
+    {
+      "path": "ingestion/packet.schema.json",
+      "sha256": "95851014b1ad0c15be76794ef4c2b56ed9198e0a7701daadda60336c676e2227"
+    },
+    {
+      "path": "ingestion/packet.template.json",
+      "sha256": "bf02c5f6a2b9f7de3afc44ce18931f2e788ebdc0e25767bfcf79309f40cd3897"
+    }
+  ],
+  "note": "Owner-requested reusable skills. Implementation guidance remains distinct from source claims; no transcript or production data copied."
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Chat Workspace"
+  short_description: "Reuse the Namakan-style chat layout and feel"
+  default_prompt: "Use $agent-chat-workspace to adapt the reusable chat interface to this product."

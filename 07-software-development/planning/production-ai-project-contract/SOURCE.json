@@ -1,0 +1,27 @@
+{
+  "name": "production-ai-project-contract",
+  "author": "cfollette18",
+  "type": "derived-original",
+  "source_repository": "https://github.com/cfollette18/production-ai-framework",
+  "source_revision": "feb7e5ca4df01bb722f8b83f6ff1962c276f2bd8",
+  "reviewed": "2026-09-21",
+  "inputs": [
+    {
+      "path": "START_HERE.md",
+      "sha256": "d51392b4dda5a750a2e10ccda22526cefdaf1fc3e9c625fe872209caa972b515"
+    },
+    {
+      "path": "docs/pillars.md",
+      "sha256": "68c6a6309a6e01af1f73a3db93832f362b272e6842e7f8f87111172da048100b"
+    },
+    {
+      "path": "docs/operating-framework.md",
+      "sha256": "63ea576c6f7dd163b682f81cd70bd096655d3b8ad6f260fe8b67bce3fb5824f4"
+    },
+    {
+      "path": "templates/project.json",
+      "sha256": "8b584906d442f132b71a25fffb80aec3c814ae16aec707f3407f050d9fc4d292"
+    }
+  ],
+  "note": "Owner-requested reusable skills. Implementation guidance remains distinct from source claims; no transcript or production data copied."
+}

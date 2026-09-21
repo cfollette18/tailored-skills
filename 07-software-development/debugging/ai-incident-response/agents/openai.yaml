@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Incident Response"
+  short_description: "AI Incident Response guidance and evidence"
+  default_prompt: "Use $ai-incident-response to apply this production AI practice to my project."

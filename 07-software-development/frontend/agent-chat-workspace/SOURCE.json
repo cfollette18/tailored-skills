@@ -1,0 +1,14 @@
+{
+  "name": "agent-chat-workspace",
+  "author": "cfollette18",
+  "type": "original",
+  "reviewed": "2026-09-21",
+  "implementation_reference": "Namakan / investing-researcher; source paths documented in agent-chat-workspace/references/namakan-reference.md",
+  "references": [
+    "https://www.w3.org/WAI/ARIA/apg/patterns/disclosure/",
+    "https://www.w3.org/WAI/WCAG22/Understanding/status-messages.html",
+    "https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events/Using_server-sent_events",
+    "https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/At-rules/@media/prefers-reduced-motion"
+  ],
+  "note": "Owner-approved interaction pattern adapted for other products. Public progress summaries, not hidden reasoning. No real chats, product logos, credentials, fonts, or vendor motion assets are bundled."
+}
