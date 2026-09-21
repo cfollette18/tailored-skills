@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pairwise Judge Evaluation"
+  short_description: "Pairwise Judge Evaluation workflows"
+  default_prompt: "Use $pairwise-judge-evaluation to compare paired ai outputs with blinded order, explicit ties, and bias checks."

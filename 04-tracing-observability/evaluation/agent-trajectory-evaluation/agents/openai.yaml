@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Trajectory Evaluation"
+  short_description: "Agent Trajectory Evaluation workflows"
+  default_prompt: "Use $agent-trajectory-evaluation to evaluate tool selection, arguments, state transitions, and task outcomes across an agent execution."

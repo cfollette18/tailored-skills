@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "metric_id": null,
+  "rubric_version": null,
+  "decision_informed": null,
+  "dimension": null,
+  "allowed_evidence": [],
+  "labels": [],
+  "label_definitions": {},
+  "boundary_examples": [],
+  "abstention_conditions": [],
+  "required_input_fields": [],
+  "output_contract": {
+    "status": [
+      "scored",
+      "abstained",
+      "error"
+    ],
+    "value_type": null,
+    "evidence_refs_required": true,
+    "brief_justification_required": true
+  },
+  "judge": {
+    "model": null,
+    "prompt_version": null,
+    "settings": {}
+  },
+  "calibration": {
+    "dataset_version": null,
+    "positive_class": null,
+    "acceptance_criteria": null,
+    "owner": null
+  },
+  "status": "draft"
+}

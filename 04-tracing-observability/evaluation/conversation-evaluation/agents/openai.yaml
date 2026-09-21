@@ -1,0 +1,4 @@
+interface:
+  display_name: "Conversation Evaluation"
+  short_description: "Conversation Evaluation workflows"
+  default_prompt: "Use $conversation-evaluation to evaluate multi-turn continuity, corrections, memory boundaries, and final task completion."

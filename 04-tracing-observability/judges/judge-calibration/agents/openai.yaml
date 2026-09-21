@@ -1,0 +1,4 @@
+interface:
+  display_name: "Judge Calibration"
+  short_description: "Judge Calibration workflows"
+  default_prompt: "Use $judge-calibration to measure model-judge agreement with reviewed human labels and inspect error direction."

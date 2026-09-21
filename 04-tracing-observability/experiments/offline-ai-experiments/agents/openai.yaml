@@ -1,0 +1,4 @@
+interface:
+  display_name: "Offline AI Experiments"
+  short_description: "Offline AI Experiments workflows"
+  default_prompt: "Use $offline-ai-experiments to run reproducible baseline/candidate comparisons with versioned cases, evaluators, and bounded execution."

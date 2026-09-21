@@ -1,0 +1,4 @@
+interface:
+  display_name: "Human-in-the-Loop Workflows"
+  short_description: "Human-in-the-Loop Workflows workflows"
+  default_prompt: "Use $human-in-the-loop-workflows to implement durable pause, review, and resume flows for agent actions."

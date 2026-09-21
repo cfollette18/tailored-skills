@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "experiment_id": null,
+  "hypothesis": null,
+  "comparison_unit": null,
+  "dataset": {
+    "id": null,
+    "version": null,
+    "manifest_hash": null,
+    "split": null
+  },
+  "baseline": {
+    "application_commit": null,
+    "prompt_version": null,
+    "model": null,
+    "tool_contract_version": null,
+    "data_snapshot": null
+  },
+  "candidate": {
+    "application_commit": null,
+    "prompt_version": null,
+    "model": null,
+    "tool_contract_version": null,
+    "data_snapshot": null
+  },
+  "evaluators": [],
+  "primary_metric": null,
+  "required_slices": [],
+  "execution": {
+    "repetitions": null,
+    "concurrency": null,
+    "timeout_seconds": null,
+    "retry_policy": null,
+    "max_cost": null,
+    "tool_fixture_ref": null
+  },
+  "decision_policy": {
+    "thresholds": null,
+    "critical_case_rules": null,
+    "minimum_coverage": null,
+    "owner": null
+  },
+  "results_ref": null,
+  "decision": "unresolved"
+}

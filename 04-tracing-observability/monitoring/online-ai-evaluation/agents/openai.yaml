@@ -1,0 +1,4 @@
+interface:
+  display_name: "Online AI Evaluation"
+  short_description: "Online AI Evaluation workflows"
+  default_prompt: "Use $online-ai-evaluation to score observed production operations asynchronously with explicit eligibility, sampling, and deduplication."

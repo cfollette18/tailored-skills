@@ -1,0 +1,30 @@
+{
+  "name": "conversation-evaluation",
+  "author": "cfollette18",
+  "type": "derived-original",
+  "reviewed": "2026-09-21",
+  "scope": "Vendor-neutral engineering guidance; optional vendor mappings, no required account, model, framework, or backend.",
+  "sources": [
+    {
+      "id": "evals",
+      "url": "https://docs.langchain.com/langsmith/evaluation-concepts"
+    },
+    {
+      "id": "agent",
+      "url": "https://docs.langchain.com/langsmith/evaluate-complex-agent"
+    },
+    {
+      "id": "paf",
+      "url": "https://github.com/cfollette18/production-ai-framework/blob/feb7e5ca4df01bb722f8b83f6ff1962c276f2bd8/docs/operating-framework.md"
+    }
+  ],
+  "source_repository": "https://github.com/cfollette18/production-ai-framework",
+  "source_revision": "feb7e5ca4df01bb722f8b83f6ff1962c276f2bd8",
+  "inputs": [
+    {
+      "path": "docs/operating-framework.md",
+      "sha256": "63ea576c6f7dd163b682f81cd70bd096655d3b8ad6f260fe8b67bce3fb5824f4"
+    }
+  ],
+  "limitations": "Documentation reviewed at the stated date; no installed SDK adapter was executed. Framework source assertions are not independently verified guarantees. Templates and checks are original implementation aids, not vendor API payloads."
+}

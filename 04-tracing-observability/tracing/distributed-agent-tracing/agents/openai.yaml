@@ -1,0 +1,4 @@
+interface:
+  display_name: "Distributed Agent Tracing"
+  short_description: "Distributed Agent Tracing workflows"
+  default_prompt: "Use $distributed-agent-tracing to instrument causally connected agent, model, retrieval, and tool work across services and background jobs."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Evaluation Dataset Curation"
+  short_description: "Evaluation Dataset Curation workflows"
+  default_prompt: "Use $evaluation-dataset-curation to build versioned, representative ai evaluation cases from reviewed traces, domain examples, and synthetic gaps."

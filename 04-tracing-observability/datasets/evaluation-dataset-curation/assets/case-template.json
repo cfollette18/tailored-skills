@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "case_id": null,
+  "case_version": null,
+  "scope": null,
+  "input": null,
+  "context_refs": [],
+  "expected_behavior": [],
+  "forbidden_behavior": [],
+  "reference_output": null,
+  "rubric_version": null,
+  "allowed_tools": [],
+  "expected_escalation": null,
+  "slices": [],
+  "split": null,
+  "related_group_id": null,
+  "provenance": {
+    "kind": null,
+    "source_ref": null,
+    "effective_at": null,
+    "reviewed_by": null
+  },
+  "data_policy": {
+    "access_scope": null,
+    "retention_until": null
+  },
+  "status": "draft"
+}

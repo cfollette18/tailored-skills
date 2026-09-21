@@ -1,0 +1,4 @@
+interface:
+  display_name: "Telemetry Privacy and Sampling"
+  short_description: "Telemetry Privacy and Sampling workflows"
+  default_prompt: "Use $telemetry-privacy-sampling to design trace payload controls, retention, sampling, and exporter checks."

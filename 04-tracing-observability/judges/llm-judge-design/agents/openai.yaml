@@ -1,0 +1,4 @@
+interface:
+  display_name: "LLM Judge Design"
+  short_description: "LLM Judge Design workflows"
+  default_prompt: "Use $llm-judge-design to design focused, evidence-based model judges with explicit rubrics and validated output contracts."

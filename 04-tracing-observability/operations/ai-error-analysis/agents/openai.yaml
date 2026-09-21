@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Error Analysis"
+  short_description: "AI Error Analysis workflows"
+  default_prompt: "Use $ai-error-analysis to inspect ai traces and experiment failures to produce an evidence-based failure taxonomy and prioritized fixes."

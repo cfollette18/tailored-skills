@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Quality Monitoring"
+  short_description: "AI Quality Monitoring workflows"
+  default_prompt: "Use $ai-quality-monitoring to design actionable ai quality, latency, cost, and evaluator-health monitoring."

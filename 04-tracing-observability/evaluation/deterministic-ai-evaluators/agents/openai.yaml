@@ -1,0 +1,4 @@
+interface:
+  display_name: "Deterministic AI Evaluators"
+  short_description: "Deterministic AI Evaluators workflows"
+  default_prompt: "Use $deterministic-ai-evaluators to write code-based checks for structured outputs, tool contracts, and observable state changes."

@@ -1,0 +1,22 @@
+{
+  "name": "pairwise-judge-evaluation",
+  "author": "cfollette18",
+  "type": "derived-original",
+  "reviewed": "2026-09-21",
+  "scope": "Vendor-neutral engineering guidance; optional vendor mappings, no required account, model, framework, or backend.",
+  "sources": [
+    {
+      "id": "pairwise",
+      "url": "https://docs.langchain.com/langsmith/evaluate-pairwise"
+    },
+    {
+      "id": "judge",
+      "url": "https://langfuse.com/academy/evaluate/writing-evaluators"
+    },
+    {
+      "id": "compare",
+      "url": "https://langfuse.com/docs/evaluation/experiments/compare-experiments"
+    }
+  ],
+  "limitations": "Documentation reviewed at the stated date; no installed SDK adapter was executed. Framework source assertions are not independently verified guarantees. Templates and checks are original implementation aids, not vendor API payloads."
+}

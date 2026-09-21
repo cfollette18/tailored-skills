@@ -1,0 +1,4 @@
+interface:
+  display_name: "Human Feedback and Review"
+  short_description: "Human Feedback and Review workflows"
+  default_prompt: "Use $human-feedback-review to collect attributable feedback and adjudicate ai outputs with a stable rubric."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Prompt Version Evaluation"
+  short_description: "Prompt Version Evaluation workflows"
+  default_prompt: "Use $prompt-version-evaluation to evaluate and trace prompt changes as versioned behavioral changes."

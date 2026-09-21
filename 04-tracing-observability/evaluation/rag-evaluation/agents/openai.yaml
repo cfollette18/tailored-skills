@@ -1,0 +1,4 @@
+interface:
+  display_name: "Retrieval and RAG Evaluation"
+  short_description: "Retrieval and RAG Evaluation workflows"
+  default_prompt: "Use $rag-evaluation to evaluate retrieval, grounding, answer correctness, and citation evidence separately."

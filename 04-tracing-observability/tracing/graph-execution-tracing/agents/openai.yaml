@@ -1,0 +1,4 @@
+interface:
+  display_name: "Graph Execution Tracing"
+  short_description: "Graph Execution Tracing workflows"
+  default_prompt: "Use $graph-execution-tracing to correlate graph nodes, branches, checkpoints, resumes, and replay attempts."

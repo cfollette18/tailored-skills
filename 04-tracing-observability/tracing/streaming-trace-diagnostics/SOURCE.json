@@ -1,0 +1,18 @@
+{
+  "name": "streaming-trace-diagnostics",
+  "author": "cfollette18",
+  "type": "derived-original",
+  "reviewed": "2026-09-21",
+  "scope": "Vendor-neutral engineering guidance; optional vendor mappings, no required account, model, framework, or backend.",
+  "sources": [
+    {
+      "id": "streaming",
+      "url": "https://docs.langchain.com/oss/python/langgraph/streaming"
+    },
+    {
+      "id": "good-traces",
+      "url": "https://langfuse.com/docs/observability/best-practices"
+    }
+  ],
+  "limitations": "Documentation reviewed at the stated date; no installed SDK adapter was executed. Framework source assertions are not independently verified guarantees. Templates and checks are original implementation aids, not vendor API payloads."
+}

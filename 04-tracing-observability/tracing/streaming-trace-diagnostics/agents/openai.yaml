@@ -1,0 +1,4 @@
+interface:
+  display_name: "Streaming Trace Diagnostics"
+  short_description: "Streaming Trace Diagnostics workflows"
+  default_prompt: "Use $streaming-trace-diagnostics to diagnose partial, duplicated, delayed, or disconnected ai streams using correlated runtime events."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Durable Agent Execution"
+  short_description: "Durable Agent Execution workflows"
+  default_prompt: "Use $durable-agent-execution to design restartable stateful agent workflows with checkpoint boundaries, idempotency, and bounded recovery."
